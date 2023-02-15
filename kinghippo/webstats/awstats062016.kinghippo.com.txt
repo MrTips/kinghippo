@@ -1,0 +1,782 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /home/kinghipp/tmp/awstats/awstats.kinghippo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2674                
+POS_VISITOR 16641               
+POS_DAY 22138               
+POS_DOMAIN 3389                
+POS_LOGIN 3826                
+POS_ROBOT 3981                
+POS_WORMS 4404                
+POS_EMAILSENDER 4535                
+POS_EMAILRECEIVER 4678                
+POS_SESSION 22828               
+POS_SIDER 22986               
+POS_FILETYPES 4813                
+POS_DOWNLOADS 4946                
+POS_OS 4994                
+POS_BROWSER 5292                
+POS_SCREENSIZE 6302                
+POS_UNKNOWNREFERER 6376                
+POS_UNKNOWNREFERERBROWSER 6870                
+POS_ORIGIN 7111                
+POS_SEREFERRALS 7247                
+POS_PAGEREFS 7413                
+POS_SEARCHWORDS 7665                
+POS_KEYWORDS 7817                
+POS_MISC 2338                
+POS_ERRORS 7876                
+POS_CLUSTER 3682                
+POS_SIDER_404 8012                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160701001613 34 6630 8789094184008
+FirstTime 0
+LastTime 20160630225336
+LastUpdate 20160701222520 34 0 33 0 0
+TotalVisits 147                 
+TotalUnique 137                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 148                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 7 16746 12 13 26943
+1 1 1 2773 4 7 10287
+2 2 2 5546 5 12 13238
+3 9 9 24957 122 269 460780
+4 6 6 16638 8 15 37501
+5 3 4 8887 7 26 71672
+6 24 24 66552 4 13 11515
+7 10 15 43344 4 22 36471
+8 5 10 32252 3 10 28451
+9 5 10 32252 5 9 27639
+10 3 3 8319 9 14 20769
+11 5 6 14433 2 12 23890
+12 6 12 51975 15 24 36302
+13 3 13 45093 7 16 18109
+14 7 10 53419 26 33 67727
+15 3 3 8319 17 26 66795
+16 10 10 27730 13 26 34126
+17 5 5 13865 21 37 90185
+18 3 8 26706 14 33 53858
+19 4 5 12380 6 13 17502
+20 8 13 40571 11 22 32246
+21 27 28 75439 16 25 54694
+22 4 10 46429 5 20 48595
+23 6 8 17774 11 23 32103
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+ru 40 50 147694
+cn 38 49 173457
+us 35 66 208665
+ua 15 15 41595
+de 12 12 33276
+fr 5 5 13865
+ca 5 5 13865
+nl 3 3 8319
+sk 3 8 26706
+th 2 2 5546
+es 1 1 2773
+kr 1 1 2773
+in 1 1 2773
+eu 1 1 2773
+vn 1 1 2773
+br 1 1 2773
+hu 1 1 2773
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 204 424208 20160630232444 83
+googlebot 101 209525 20160630234841 30
+unknown 17 510 20160627221848 17
+no_user_agent 14 30593 20160626204512 3
+bingpreview 10 19847 20160624233212 0
+scanner 4 5606 20160622115132 2
+crawl 2 2803 20160625233537 1
+curl 1 2773 20160607123800 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 15 9240 0 0
+html 165 454772 0 0
+js 24 221538 0 0
+gif 18 6849 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+blackberry 1 1
+linuxandroid 1 1
+winlong 2 2
+winxp 23 17
+ios_iphone 2 2
+winphone 6 1
+win2003 2 1
+macosx9 3 3
+win8 1 1
+linuxdebian 1 1
+macosx7 2 2
+winnt 53 43
+linuxubuntu 2 2
+linux 21 11
+win7 52 37
+macosx 8 3
+Unknown 8 8
+win8.1 34 29
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 49
+chrome44.0.2403.125 1 1
+msie6.0 8 8
+firefox28.0 6 6
+chrome40.0.2214.115 2 2
+firefox5.0 1 1
+firefox3.6 1 1
+chrome19.0.1061.0 1 1
+chrome48.0.2564.116 22 22
+chrome5.0.375.99 1 1
+chrome36.0.1985.125 9 9
+chrome12.0.742.112 1 1
+safari5.0.2 1 1
+firefox6.0.2 9 8
+chrome11.0.696.34 1 1
+chrome26.0.1410.65 1 1
+firefox43.0 2 2
+chrome47.0.2526.111 2 2
+chrome45.0.2454.93 29 19
+chrome27.0.1453.93 1 1
+msie7.0 2 1
+firefox40.1 1 1
+firefox23.0 1 1
+chrome37.0.2062.120 2 2
+chrome50.0.2661.102 2 2
+chrome17.0.1025.133 1 1
+chrome10.0.648.204 9 9
+chrome28.0.1500.74 6 1
+Unknown 3 3
+blackberry 1 1
+opera12.16 12 2
+firefox21.0 1 1
+chrome28.0.1500.71 1 1
+chrome49.0.2623.75 1 1
+chrome51.0.2704.103 6 1
+chrome42.0.2344.60 1 1
+msie11.0 18 3
+safari9.0 2 2
+mozilla 5 5
+firefox25.0 2 2
+opera34.0.2036.50 2 2
+firefox14.0.1 3 3
+chrome25.0.1364.172 1 1
+msie10.0 1 1
+chrome48.0.2564.103 1 1
+firefox3.6.3 1 1
+chrome13.0.782.41 1 1
+chrome43.0.2357.134 2 2
+chrome48.0.2564.97 22 22
+safari 12 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20160605034902
+Ruby 20160625104553
+Mozilla/5.0_(compatible;_Dataprovider/6.92;__https://www.dataprovider.com/) 20160617203138
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20160616120305
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20160610031610
+nutch-1.4/Nutch-1.4 20160613183937
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Ruby 20160625104553
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20160616120305
+nutch-1.4/Nutch-1.4 20160613183937
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 104 116
+From1 1 1
+From2 5 5
+From3 4 4
+From4 51 96
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 3 3
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://hundejo.com 1 1
+http://kinghippie.com 1 1
+http://wotcracker.ru 1 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 53 99534
+206 2 5546
+400 2 2786
+301 1 243
+404 292 517424
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 268
+/wordpress/ 3 -
+/admin.php 3 -
+/images/2_11.gif 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/new_gb/help/images/usage/3.3.gif 1 -
+/fckeditor/fckeditor.js 1 -
+/wp-content/themes/u-design/scripts/script.js 1 -
+/common/common.js 1 -
+/Images/login/lefttu.jpg 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/Images/login/mainlogo.gif 1 -
+/member/space/company/info.txt 1 -
+/was/main.html 1 -
+/siteserver/upgrade/default.aspx 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/images/logo-white.png 1 -
+/administrator/manifests/files/joomla.xml 1 -
+/index.cgi 1 -
+/static/hgicon.png 1 -
+/doku.php 1 -
+/administrator/ 5 http://KINGHIPPO.COM/administrator/
+/datacenter/downloadApp/showDownload.do 1 -
+/docs.css 1 -
+/was/help.jsp 1 -
+/wp-login.php 7 -
+/admin/inc/xml.xslt 1 -
+/inc/rsd.php 1 -
+/addons/uploadify/uploadify.css 1 http://kinghippo.com
+/User/Login.aspx 1 -
+/kindeditor.js 1 -
+/logo/logo_jw.png 1 -
+/pub/guiedit/guiedit.js 1 -
+/bencandy.php 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+/jcms/index_jcms.jsp 1 -
+/images/zh-CN/logo.ico 1 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/css/uploadify.css 1 http://kinghippo.com
+/Images/login/biaoti.jpg 1 -
+/license.txt 1 -
+/help/en/h_authenticate.html 1 -
+/archiver/ 1 -
+/plug/publish 1 -
+/license.php 1 -
+/cgi/index.cgi 1 -
+/history.txt 1 -
+/images/Default_bg_002.gif 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/deptWebsiteAction.do 1 -
+/plus/sitemap.html 1 -
+/readme.html 1 -
+/rss.aspx 1 -
+/plus/download.php 1 -
+/system/language/zh-cn.xml 1 -
+/includes/general.js 1 -
+/general/weibo/javascript/LazyUploadify/uploadify.css 1 http://kinghippo.com
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/kindeditor-min.js 1 -
+/script/login.js 1 -
+/default/css/em_css.css 1 -
+/js/uploadify/uploadify.css 1 http://kinghippo.com
+/jcms/index.jsp 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/app/images/login/toplogo.gif 1 -
+/system/skins/default/system.login.htm 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/archive/archive.css 1 -
+/app/home/skins/default/style.css 1 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/images/hwem.css 1 -
+/forum/ 1 -
+/style/default/hdwiki.css 1 -
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/common/uploadify.css 1 http://kinghippo.com
+/wordpress/wp-login.php 1 -
+/js/jquery.uploadify/uploadify.css 1 http://kinghippo.com
+/lang/en.js 1 -
+/system/Update.aspx 1 -
+/console/js/CWCMDialogHead.js 1 -
+/examples/index.html 1 -
+/include/lib/js/uploadify/uploadify.css 1 http://kinghippo.com
+/JS/jquery.uploadify-v2.1.0/uploadify.css 1 http://kinghippo.com
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/ckfinder/install.txt 1 -
+/Search.html 1 -
+/Prompt/images/P_Wrong.gif 1 -
+/Admin/Login.aspx 1 -
+/template/home.htm 1 -
+/default/images/logo.gif 1 -
+/m 1 -
+/plus/rssmap.html 1 -
+/script/valid_formdata.js 1 -
+/js/Plug-in/jquery.uploadify/uploadify.css 1 http://kinghippo.com
+/docs/ 1 -
+/admin/ 1 -
+/base/login/login.php 1 -
+/images/login/eyoumail.gif 1 -
+/ckeditor/ckeditor.js 1 -
+/Install/logo.gif 1 -
+/blog/ 1 -
+/public/about.html 1 -
+/next/img/logo.gif 1 -
+/was5/web/index.jsp 1 -
+/digg.php 1 -
+/archiver 1 -
+/maintlogin.jsp 1 -
+/themes/graphics/horde-power1.png 1 -
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/plugins/filemanager/filemanager/js 1 -
+/asp.net/README.txt 1 -
+/inc/Templates/rss.xslt 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/extman/default/images/logo.gif 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/admin 1 -
+/images/login_Name.jpg 1 -
+/extern.php 1 -
+/master/login.aspx 1 -
+/admin/login.aspx 1 -
+/test_404_page/ 1 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/console/include/not_login.htm 1 -
+/tools/rss.aspx 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/template/1/bluewise/_files/jspxcms.css 1 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/stylesheet.css 1 -
+/Help 1 -
+/feed.asp 1 -
+/examples/file-manager.html 1 -
+/coremail/common/help/images/helplogo.gif 1 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/ckeditor/ckfinder/install.txt 1 -
+/siteserver/login.aspx 1 -
+/images/login/logo.gif 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/inc/jquery/uploadify/uploadify.css 1 http://kinghippo.com
+/issmall/ 1 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/blogs/wp-login.php 1 -
+/Editor.js 1 -
+/examples/readonly.html 1 -
+/Admin/Common/HelpLinks.xml 1 -
+/lib/uploadify.css 1 http://kinghippo.com
+/ids/admin/login.jsp 1 -
+/blog 1 http://kinghippo.com/blog
+/admin/start/index.php 1 -
+/wcm/ 1 -
+/FCK/fckeditor.js 1 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/media/com_hikashop/js/hikashop.js 1 -
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/wp-content 1 -
+/dialog/dialog.js 1 -
+/business/images/index-gg1.jpg 1 -
+/whir_system/login.aspx 1 -
+/img/pic/login/top-left.jpg 1 -
+/images/branding/logo.gif 1 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/help/user/index.html 1 -
+/Include/EcsServerApi.js 1 -
+/manager/media 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/plugins/anchor/anchor.js 1 -
+/data/admin/ver.txt 1 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/README.txt 1 -
+/jetspeed/index.jsp 1 -
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/admin/js/IdSUtil.js 1 -
+/eams/static/scripts/grade/course/input.js 1 -
+/e/master/login.aspx 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/themes/default/default.css 1 -
+/themes/default/graphics/horde-power1.png 1 -
+/images/login/icon-up.gif 1 -
+/weblog/ 1 -
+/admin/login.asp 1 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/images/logo_product-cml.png 1 -
+/administrator/index.php 6 -
+/images/default/post_bt.gif 1 -
+/install 1 -
+/js/ajax_x.js 1 -
+/fckeditor.js 1 -
+/wp-cron.php 1 -
+/forum.php 1 -
+/docs/DOCUMENTATION.txt 1 -
+/fckeditor/license.txt 1 -
+/uploadify.css 1 http://kinghippo.com
+/fckeditor/fckconfig.js 1 -
+/phpmyadmin/docs.css 1 -
+/whir_system/module/security/login.aspx 1 -
+/blog//administrator/ 2 http://KINGHIPPO.COM/blog//administrator/
+/wp-content/plugins/revslider/js/rev_admin.js 1 -
+/admin/login.php 1 -
+/licence.txt 1 -
+/console/js/CTRSRequestParam.js 1 -
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/admin/index.php 1 -
+/max-templates/classic/styles/app.css 1 -
+/changelog.txt 1 -
+/app/images/login/logo.png 1 -
+/inc/playerKinds.xml 1 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/forums/list.page 1 -
+/Public/uploadify/uploadify.css 1 http://kinghippo.com
+/phpmyadmin/ 1 -
+/list.php 1 -
+/1 1 http://kinghippo.com/1
+/data/images/wap_logo.gif 1 -
+/api/api_user.xml 1 -
+/login/Jeecms.do 1 -
+/include/dialog/config.php 1 -
+/admin/css/uploadify.css 1 http://kinghippo.com
+/advfile/ad12.js 1 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/blog/wp-login.php 1 -
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/bocadmin/j/custom.js 1 http://kinghippo.com
+/plugin.php 1 -
+/ymail/images/index_r1_c4.jpg 1 -
+/ckfinder/ckfinder.html 1 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+/console/auth/reg_newuser.jsp 1 -
+/rss.php 1 -
+/script/multiupload/uploadify.css 1 http://kinghippo.com
+/images/logo_88x31.gif 1 -
+/include/dedeajax2.js 1 -
+/static/images/logo/webserver_small.gif 1 -
+/Error.aspx 1 -
+/public/js/ipb.js 1 -
+/imagesschool/style1/flash2.jpg 1 -
+/images/login9/login_33.jpg 1 -
+/ks_inc/ajax.js 1 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/bbs/ 1 -
+/admin/template/article_more/config.htm 1 -
+/wp/wp-login.php 1 -
+/common/help/images/helplogo.gif 1 -
+/nobody/mobile.htm 1 -
+/CHANGELOG.txt 1 -
+/License.txt 1 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/app/login.jsp 1 -
+/customdir/images/english_logo.jpg 1 -
+/uc_server/control/admin/db.php 1 -
+/common/help/images/helplogo_zh.gif 1 -
+/admin/admin_login.php 1 -
+/Wq_StranJF.js 1 -
+/plus/heightsearch.php 1 -
+/system/Login.aspx 1 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/index.php 5 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/auth/login 1 -
+/js/buttons.js 1 -
+/Ntalker/lawfirm.aspx 1 -
+/include/install_ocx.aspx 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 148
+125.64.94.206 3 3 8319 20160624033548
+80.242.34.105 3 8 26706 20160615155818
+195.154.146.225 3 3 8319 20160626133242
+158.69.225.36 3 3 8319 20160617203139
+46.229.170.197 2 2 5546 20160624111237
+192.160.102.164 2 2 5546 20160615105805
+79.110.25.243 2 2 5546 20160609061425
+146.185.200.39 2 2 5546 20160609061543
+46.161.63.60 2 2 5546 20160609061427
+104.156.230.231 2 2 5546 20160620142203
+93.179.89.59 2 2 5546 20160601211855
+176.102.32.31 2 2 5546 20160614220423
+46.161.63.114 2 2 5546 20160609061542
+162.243.245.163 2 2 5546 20160623211234
+5.9.94.207 2 2 5546 20160620160715
+5.9.17.118 2 2 5546 20160616152028
+69.58.178.58 2 2 5546 20160601210004
+208.43.225.84 2 2 5546 20160605034902
+31.184.236.104 2 2 5546 20160602232244
+46.148.31.52 2 2 5546 20160601211856
+79.110.25.240 2 2 5546 20160609061429
+144.76.71.83 2 2 5546 20160621121942
+37.77.135.30 2 2 5546 20160607075550
+45.32.131.61 2 2 5546 20160603201119
+202.46.55.149 1 1 2773 20160626085528
+188.40.112.210 1 1 2773 20160626072209
+54.166.247.60 1 1 2773 20160616193407
+193.0.129.5 1 1 2773 20160609061414
+202.46.48.200 1 1 2773 20160612045906
+171.96.171.208 1 1 2773 20160618181843
+202.46.58.190 1 1 2773 20160602073025
+202.46.55.14 0 1 568 
+202.46.54.37 1 1 2773 20160607175630
+93.179.89.17 1 1 2773 20160601211745
+46.73.220.4 1 6 21160 20160624183642
+66.249.91.127 1 1 2773 20160610031610
+95.221.219.202 1 6 21160 20160630225336
+89.163.144.211 1 1 2773 20160621011907
+202.46.48.94 0 1 108 
+146.185.201.56 1 1 2773 20160601211746
+202.46.56.94 1 1 2773 20160612160414
+202.46.58.98 1 1 2773 20160630165450
+202.46.49.198 1 1 2773 20160608234858
+46.161.63.97 1 1 2773 20160609061426
+67.215.191.121 1 1 2773 20160614091509
+202.46.58.27 1 1 2773 20160625070659
+176.226.164.54 1 1 2773 20160603001108
+46.148.31.100 1 1 2773 20160609061440
+202.46.52.105 1 2 3341 20160616110626
+176.9.98.12 1 1 2773 20160623024302
+94.24.112.83 1 1 2773 20160616120305
+180.76.15.149 1 1 2773 20160628030003
+113.169.241.232 1 1 2773 20160630095549
+46.161.62.41 1 1 2773 20160609061511
+5.9.145.132 1 1 2773 20160602142737
+67.215.191.141 1 1 2773 20160622050429
+91.213.220.5 1 1 2773 20160601211742
+216.81.71.106 1 1 2773 20160609062749
+202.46.57.204 1 1 2773 20160606004705
+50.30.32.18 1 1 2773 20160603144346
+202.46.48.201 1 1 2773 20160630164523
+46.161.63.103 1 1 2773 20160609061510
+202.46.56.199 1 1 2773 20160605203036
+66.249.88.7 0 2 758 
+202.46.55.66 1 1 2773 20160602110757
+146.185.200.86 1 1 2773 20160601211744
+5.101.222.25 1 1 2773 20160601211853
+173.208.169.42 1 1 2773 20160612100410
+202.46.51.35 0 1 16950 
+46.161.62.71 1 1 2773 20160609061428
+93.179.89.90 1 1 2773 20160601211744
+202.46.56.191 1 1 2773 20160626004606
+187.84.241.174 1 1 2773 20160617055504
+117.78.13.18 1 1 2773 20160613183937
+194.28.86.22 1 1 2773 20160625084616
+5.101.222.13 1 1 2773 20160601211741
+146.185.201.110 1 1 2773 20160601211745
+193.248.239.4 1 1 2773 20160609081530
+43.254.29.234 1 1 2773 20160625104553
+202.46.52.159 1 1 2773 20160630041025
+67.215.191.166 1 1 2773 20160611111020
+202.46.54.116 1 1 2773 20160605210147
+202.46.57.160 0 1 108 
+46.148.31.95 1 1 2773 20160601211741
+202.46.57.176 1 1 2773 20160620090007
+46.148.30.38 1 1 2773 20160609061429
+66.249.88.18 1 8 38221 20160614072053
+216.86.154.246 1 6 21160 20160604132907
+67.215.191.149 1 1 2773 20160627110558
+46.161.63.67 1 1 2773 20160601211851
+46.148.31.62 1 1 2773 20160601211742
+202.46.50.11 1 1 2773 20160616162134
+202.46.48.26 1 1 2773 20160611142359
+193.248.251.210 1 1 2773 20160626165241
+67.215.191.163 1 1 2773 20160616172724
+38.100.21.67 1 2 4061 20160607192744
+216.255.103.250 1 6 21160 20160622123654
+93.179.89.91 1 1 2773 20160609061427
+93.179.89.126 1 1 2773 20160601211852
+5.9.106.81 1 1 2773 20160626072155
+202.46.52.152 1 1 2773 20160606003738
+5.8.37.220 1 1 2773 20160609061428
+46.161.62.47 1 1 2773 20160609061413
+202.46.49.63 1 1 2773 20160603042056
+67.215.191.142 1 1 2773 20160624023755
+62.212.73.49 1 1 2773 20160617122002
+202.46.55.133 1 1 2773 20160612230201
+199.30.80.105 1 1 2773 20160623144753
+54.162.224.206 1 6 21160 20160625084922
+66.249.88.29 1 2 3341 20160604132632
+66.249.80.23 1 1 2773 20160609230521
+216.81.71.112 1 1 2773 20160601170250
+141.0.13.148 1 6 21160 20160603200701
+46.148.30.32 1 1 2773 20160609061414
+202.46.53.202 0 1 568 
+202.46.54.189 1 1 2773 20160621083932
+5.101.217.17 1 1 2773 20160609061439
+46.161.62.75 1 1 2773 20160609061415
+83.217.27.244 1 1 2773 20160612233704
+202.46.52.163 1 1 2773 20160621051031
+46.161.63.108 1 1 2773 20160609061426
+202.46.48.148 0 1 16950 
+202.46.53.122 0 1 568 
+79.110.25.236 1 1 2773 20160601211743
+202.46.57.18 1 1 2773 20160629223949
+82.131.156.65 1 1 2773 20160607123800
+5.8.37.251 1 1 2773 20160609061415
+202.46.56.69 1 1 2773 20160619194400
+112.146.173.75 1 1 2773 20160617042833
+221.231.6.195 1 1 0 20160604071157
+180.76.15.32 1 1 2773 20160622170301
+202.46.48.202 1 1 2773 20160603030352
+54.183.197.28 1 1 2773 20160615164356
+202.46.54.204 1 1 2773 20160607174626
+46.161.62.72 1 1 2773 20160601211854
+202.46.52.77 1 1 2773 20160617000753
+74.91.28.19 1 1 2773 20160610190734
+202.46.58.86 0 1 16950 
+202.46.51.32 1 1 2773 20160625065128
+67.215.191.118 1 1 2773 20160620044312
+202.46.58.73 0 1 568 
+202.46.51.18 1 1 2773 20160617002224
+5.9.112.6 1 1 2773 20160626072224
+202.46.56.91 0 1 16950 
+182.232.168.72 1 1 2773 20160615072805
+54.157.134.126 1 1 2773 20160625035840
+5.8.37.203 1 1 2773 20160601211746
+109.206.177.62 1 1 2773 20160605045323
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20160601 25 25 69325 22
+20160602 6 6 16638 5
+20160603 7 13 38366 6
+20160604 3 13 42320 3
+20160605 6 6 16638 5
+20160606 2 2 5546 2
+20160607 6 8 18494 5
+20160608 2 2 5546 2
+20160609 25 25 69325 23
+20160610 2 2 5546 2
+20160611 2 2 5546 2
+20160612 5 5 13865 5
+20160613 1 2 3341 1
+20160614 4 9 29479 3
+20160615 6 11 35025 5
+20160616 7 7 19411 7
+20160617 8 9 39134 6
+20160618 1 3 20291 1
+20160619 1 1 2773 1
+20160620 6 8 16854 4
+20160621 4 5 28042 4
+20160622 4 9 29479 4
+20160623 4 4 11092 3
+20160624 7 13 54748 5
+20160625 6 12 35593 6
+20160626 7 7 19411 7
+20160627 1 1 2773 1
+20160628 1 1 2773 1
+20160629 1 1 2773 1
+20160630 5 10 32252 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 145
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 165 454772 147 147
+END_SIDER

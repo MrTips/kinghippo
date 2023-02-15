@@ -1,0 +1,622 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201506 will be lost/reset.
+# Last config file used to build this data file was /home/kinghipp/tmp/awstats/awstats.kinghippo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2688                
+POS_VISITOR 13032               
+POS_DAY 18976               
+POS_DOMAIN 3404                
+POS_LOGIN 3958                
+POS_ROBOT 4113                
+POS_WORMS 4467                
+POS_EMAILSENDER 4598                
+POS_EMAILRECEIVER 4741                
+POS_SESSION 19685               
+POS_SIDER 19876               
+POS_FILETYPES 4876                
+POS_DOWNLOADS 5011                
+POS_OS 5081                
+POS_BROWSER 5310                
+POS_SCREENSIZE 6139                
+POS_UNKNOWNREFERER 6213                
+POS_UNKNOWNREFERERBROWSER 6710                
+POS_ORIGIN 7016                
+POS_SEREFERRALS 7154                
+POS_PAGEREFS 7317                
+POS_SEARCHWORDS 7807                
+POS_KEYWORDS 7959                
+POS_MISC 2352                
+POS_ERRORS 8018                
+POS_CLUSTER 3814                
+POS_SIDER_404 8133                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150701023556 33 6586 11245808186646
+FirstTime 20150601011832
+LastTime 20150630193226
+LastUpdate 20150701081728 33 0 32 0 0
+TotalVisits 186                 
+TotalUnique 152                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 152                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 11092 5 13 15596
+1 5 10 32252 6 12 14101
+2 9 9 24957 13 22 37885
+3 12 17 51663 4 15 27759
+4 1 1 2773 7 10 15815
+5 1 6 21160 3 8 8112
+6 7 12 37798 5 11 18694
+7 7 22 74572 11 20 24479
+8 6 21 71799 6 10 14073
+9 29 34 98804 6 16 32624
+10 22 27 79393 9 11 19329
+11 95 115 336983 7 16 36600
+12 10 25 82891 6 13 34384
+13 4 19 66253 4 8 11212
+14 3 8 26706 4 7 12135
+15 8 23 117810 48 98 166745
+16 8 28 95732 4 10 14254
+17 6 21 71799 4 8 12165
+18 8 19 60246 5 11 29116
+19 16 46 154690 9 13 24076
+20 6 6 16638 7 16 34457
+21 4 14 47866 4 10 29731
+22 3 3 8319 5 6 11104
+23 7 17 56185 6 16 35427
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+us 144 155 437374
+br 26 151 572238
+ph 20 25 73847
+cn 16 16 44368
+eu 14 14 38822
+ru 11 16 48890
+de 11 11 30503
+fr 7 7 19411
+zz 6 6 16638
+mx 4 24 84640
+ua 3 3 8319
+sa 2 2 5546
+it 2 12 42320
+nl 2 2 5546
+sk 2 7 23933
+ve 2 12 42320
+es 1 6 21160
+my 1 6 21160
+at 1 1 2773
+bg 1 1 2773
+si 1 6 21160
+ar 1 6 21160
+ng 1 6 21160
+se 1 6 21160
+pe 1 6 21160
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 83 163616 20150630192002 29
+bot[\s_+:,\.\;\/\\-] 83 176899 20150630124147 33
+robot 18 28508 20150630181233 7
+unknown 17 510 20150630070234 17
+no_user_agent 8 16698 20150627032021 2
+crawl 8 13955 20150623070033 3
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 46 27568 0 0
+html 281 779213 0 0
+js 90 807355 0 0
+gif 90 34245 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 63 0 1952
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+linuxandroid 1 0
+linuxredhat 1 1
+winxp 38 8
+winlong 2 0
+winnt 2 1
+linux 125 3
+winvista 14 0
+win7 282 16
+macosx 2 1
+win2003 2 0
+macosx9 1 1
+win8.1 1 1
+Unknown 36 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+msie6.0 7 2
+chrome40.0.2214.115 1 1
+firefox5.0 1 0
+chrome29.0.1547.57 70 0
+chrome43.0.2357.124 1 1
+firefox26.0 1 0
+chrome39.0.2171.95 2 0
+firefox34.0 2 0
+chrome31.0.1650.63 2 0
+opera12.80 1 0
+chrome26.0.1410.58 2 0
+firefox31.0 36 0
+firefox2.0.0.13 1 1
+firefox6.0.2 27 5
+chrome41.0.2272.101 4 0
+safari5.1.8 1 0
+msie7.0 2 0
+chrome37.0.2062.120 3 0
+chrome10.0.648.204 14 3
+firefox3.6.9 2 1
+chrome11.0.696.3 1 0
+chrome26.0.1410.43 1 0
+Unknown 30 9
+netscape 2 0
+firefox17.0 1 0
+firefox21.0 2 0
+firefox38.0 12 0
+msie5.5 1 0
+firefox12.0 1 1
+chrome32.0.1700.107 24 1
+chrome35.0.1916.114 1 1
+chrome18.0.1025.133 1 0
+chrome36.0.1985.143 216 9
+mozilla 5 0
+firefox1.0 1 1
+netscape5.0 1 0
+chrome35.0.1916.153 14 1
+firefox14.0.1 3 0
+firefox6.0 1 0
+safari6.0.3 1 1
+firefox3.6.3 2 1
+safari 6 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla 20150623033746
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20150612150747
+p%-L6Zd! 20150630072413
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150601230230
+WWW-Mechanize/1.74 20150601125453
+Python-urllib/2.6 20150607035117
+Mozilla/5.0_(compatible;_PageAnalyzer/1.5;) 20150610034059
+nutch-1.4/Nutch-1.4 20150629000356
+NerdyBot 20150630092129
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+WWW-Mechanize/1.74 20150601125453
+python-requests/2.4.3_CPython/2.7.3_Linux/3.2.0-23-generic 20150630012358
+Python-urllib/2.6 20150607035117
+nutch-1.4/Nutch-1.4 20150629000356
+p%-L6Zd! 20150630072413
+NerdyBot 20150630092129
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 222 223
+From1 1 1
+From2 3 3
+From3 46 46
+From4 9 234
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+aol 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://100dollars-seo.com/try.php 21 21
+http://buttons-for-your-website.com 11 11
+http://semaltmedia.com 3 3
+http://hundejo.com 2 2
+http://27142166.videos-for-your-business.com 2 2
+http://best-seo-offer.com/try.php 2 2
+http://success-seo.com/try.php 2 2
+http://pizza-tycoon.com 1 1
+http://baltkurs.com 1 1
+http://buttons-for-website.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 51 95778
+400 1 1393
+404 103 182516
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 96
+/shared/includes/javascript/kcfinder/js/helper.js 1 -
+/admin/plugins/elfinder/php/connector.php 1 -
+/repository/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/admin.php 3 -
+/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/files/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/index.php 1 -
+/app/webroot/js/elfinder/php/connector.php 1 -
+/js/elfinder/php/connector.php 1 -
+/xmlrpc.php 1 https://www.google.by/search
+/configuration.php.bak 1 -
+/vendor/kcfinder/js/helper.js 1 -
+/metronic/theme_rtl/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/upload/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/FILE/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/sites/all/libraries/elfinder/php/connector.php 1 -
+/wp-content/plugins/reflex-gallery/readme.txt 1 -
+/admin/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/admin/jquery-file-upload/server/php/index.php 1 -
+/plugin/jquery-file-upload/server/php/index.php 1 -
+/admin/js/plugins/elfinder/php/connector.php 1 -
+/js/kcfinder/js/helper.js 1 -
+/js/uploader/server/php/index.php 1 -
+/js/upload/server/php/index.php 1 -
+/admin/ckeditor/kcfinder/js/helper.js 1 -
+/misc/elfinder-connector/connector.php 1 -
+/assets/js/vendor/jquery-file-upload/server/php/index.php 1 -
+/assets/admin/jquery-file-upload/server/php/index.php 1 -
+/sites/all/modules/elfinder/php/connector.php 1 -
+/administrator/ 2 -
+/fileshare/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/js/ckeditor/kcfinder/js/helper.js 1 -
+/metronic/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/admin/php/connector.php 1 -
+/system/kcfinder/js/helper.js 1 -
+/admin/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/admin/upload/server/php/index.php 1 -
+/ajax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/test/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/admin/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp-login.php 5 -
+/ckeditor/elfinder/php/connector.php 1 -
+/kcfinder/js/helper.js 1 -
+/php/connector.php 1 -
+/filemanager/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/docs/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/filemanager/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/design/_js_libs/ckeditor/kcfinder/js/helper.js 1 -
+/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/admin/kcfinder/js/helper.js 1 -
+/projects/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/js/ckeditor/plugins/kcfinder/js/helper.js 1 -
+/lib/elfinder/php/connector.php 1 -
+/ckeditor/kcfinder/js/helper.js 1 -
+/clients/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/metronic/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/office/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/js/lib/upload/server/php/index.php 1 -
+/admin/assets/jquery-file-upload/server/php/index.php 1 -
+/admin/js/upload/server/php/index.php 1 -
+/js/admin/kcfinder/js/helper.js 1 -
+/assets/misc/elfinder-connector/connector.php 1 -
+/feng/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/project/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/xplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/customers/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/admin/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/admin/assets/ckeditor/elfinder/php/connector.php 1 -
+/modules/tadtools/elFinder/php/connector.php 1 -
+/plugins/jquery-file-upload/server/php/index.php 1 -
+/public/kcfinder/js/helper.js 1 -
+/administrator/index.php 1 -
+/lib/js/kcfinder/js/helper.js 1 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/filemanager/php/connector.php 1 -
+/explorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/fengoffice/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/admin/misc/elfinder-connector/connector.php 1 -
+/core/js/kcfinder/js/helper.js 1 -
+/file_server/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/share/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ajaxplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/assets/jquery-file-upload/server/php/index.php 1 -
+/assets/elfinder/php/connector.php 1 -
+/ftp/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/js/plugins/elfinder/php/connector.php 1 -
+/assets/elfinder/connector.php 1 -
+/scripts/upload/server/php/index.php 1 -
+/assets/kcfinder/js/helper.js 1 -
+/ckeditor/plugins/kcfinder-2.54/js/helper.js 1 -
+/scripts/uploader/server/php/index.php 1 -
+/js/jquery-file-upload/server/php/index.php 1 -
+/intranet/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/sites/all/libraries/kcfinder/js/helper.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 152
+198.252.44.5 14 14 38822 20150629021919
+52.0.185.100 11 11 30503 20150601113937
+52.6.221.95 10 10 27730 20150601113448
+54.164.249.191 9 9 24957 20150601113654
+54.165.244.125 9 9 24957 20150601113011
+54.152.130.198 7 7 19411 20150601111404
+52.5.132.129 7 7 19411 20150601113639
+185.10.107.69 7 7 19411 20150613170740
+52.7.29.150 7 7 19411 20150601113422
+185.10.107.68 7 7 19411 20150613205304
+54.88.115.79 6 6 16638 20150601110403
+52.7.119.137 6 6 16638 20150601113554
+52.4.147.183 6 6 16638 20150601112858
+54.86.155.250 5 5 13865 20150601113629
+54.165.33.64 5 5 13865 20150601113735
+144.76.153.198 4 4 11092 20150629164821
+52.7.39.128 4 4 11092 20150601110232
+104.197.104.111 4 4 11092 20150626092341
+52.6.49.234 4 4 11092 20150601113550
+52.6.204.164 3 3 8319 20150601112632
+167.114.172.225 3 3 8319 20150601230231
+104.197.110.31 2 2 5546 20150628092342
+64.79.100.17 2 2 5546 20150618205259
+87.117.189.206 2 2 5546 20150605184349
+92.255.125.83 2 2 5546 20150606114430
+62.175.242.5 1 6 21160 20150610163621
+202.46.50.182 1 1 2773 20150626091158
+202.46.51.39 1 1 2773 20150625121312
+179.43.227.148 1 6 21160 20150620161702
+202.46.54.205 1 1 2773 20150617175856
+202.46.52.151 1 1 2773 20150617120432
+5.39.85.81 1 1 2773 20150622002232
+194.177.22.82 1 1 2773 20150625222935
+201.78.162.254 1 1 2773 20150621165952
+199.30.80.106 1 1 2773 20150628001326
+52.0.89.236 1 1 2773 20150626191713
+87.11.35.119 1 6 21160 20150618050545
+202.46.58.138 1 1 2773 20150621132322
+187.19.107.166 1 6 21160 20150604073010
+200.109.195.127 1 6 21160 20150624231213
+200.117.140.132 1 6 21160 20150620125414
+177.124.119.109 1 6 21160 20150623135314
+177.66.113.173 1 6 21160 20150619070807
+50.199.70.33 1 6 21160 20150616082622
+202.46.53.151 1 1 2773 20150630071723
+187.111.8.14 1 6 61625 20150619150914
+202.46.51.203 1 1 2773 20150622074535
+93.186.202.239 1 1 2773 20150616024959
+87.117.189.194 1 1 2773 20150602042735
+62.44.127.184 1 1 2773 20150601065131
+176.126.252.12 1 1 2773 20150622111044
+94.23.221.108 1 1 2773 20150601063023
+188.165.206.188 1 1 2773 20150614112615
+201.8.127.114 1 6 21160 20150623103405
+202.46.54.183 1 1 2773 20150617032420
+104.197.98.243 1 1 2773 20150618092331
+186.220.127.155 1 6 21160 20150604134100
+104.197.101.40 1 1 2773 20150604092321
+200.195.191.106 1 6 21160 20150615064508
+104.197.83.78 1 1 2773 20150615092326
+189.31.39.191 1 6 21160 20150627142114
+177.206.103.143 1 6 21160 20150607080735
+189.54.254.156 1 6 21160 20150626163059
+62.210.37.113 1 1 2773 20150605124349
+41.190.2.73 1 6 21160 20150614014154
+50.176.154.241 2 2 5546 20150601125454
+104.197.108.217 1 1 2773 20150623092315
+83.251.60.106 1 6 21160 20150615073456
+58.60.106.174 1 1 2773 20150630072413
+189.155.170.164 1 6 21160 20150608112342
+104.197.103.51 1 1 2773 20150630092129
+104.197.89.217 1 1 2773 20150611092308
+176.103.48.34 1 1 2773 20150604023203
+104.197.107.223 1 1 2773 20150607092340
+187.208.1.225 1 6 21160 20150605133317
+213.239.211.141 1 1 2773 20150608001531
+202.46.51.165 1 1 2773 20150621070746
+104.197.100.158 1 1 2773 20150602092330
+69.58.178.57 2 2 5546 20150602034128
+104.197.110.5 1 1 2773 20150610092354
+46.119.113.182 1 1 2773 20150625151713
+189.5.198.31 1 6 21160 20150613165524
+5.189.144.124 1 1 2773 20150601083108
+187.183.101.31 1 6 21160 20150613172244
+188.165.212.99 1 1 2773 20150612090240
+94.23.217.201 1 1 2773 20150605123909
+175.141.56.6 1 6 21160 20150630193226
+202.46.50.133 1 1 2773 20150620234156
+104.197.97.178 1 1 2773 20150620092407
+104.197.110.52 1 1 2773 20150617092355
+187.181.184.185 1 6 21160 20150614093352
+38.100.21.67 1 2 4061 20150607184428
+189.47.68.76 1 6 21160 20150609185834
+117.78.13.17 1 1 2773 20150629000356
+189.41.201.51 1 6 21160 20150622191914
+189.70.9.200 1 6 21160 20150601211632
+177.98.145.130 1 6 21160 20150620233038
+198.178.124.47 1 1 2773 20150624175309
+202.46.52.155 1 1 2773 20150625112943
+46.229.170.197 2 2 5546 20150624200441
+200.220.193.26 1 6 21160 20150607122903
+181.64.192.218 1 6 21160 20150618113316
+188.72.127.189 1 1 2773 20150602100102
+80.242.34.105 2 7 23933 20150624190655
+174.58.85.90 1 1 2773 20150608023106
+91.121.100.66 1 1 2773 20150627020058
+52.6.73.238 2 2 5546 20150601105138
+148.251.54.44 1 1 2773 20150619034531
+104.197.88.152 1 1 2773 20150614092327
+64.79.100.22 2 2 5546 20150623033746
+66.249.81.133 1 1 2773 20150601011832
+5.189.144.88 1 1 2773 20150610034059
+104.197.89.118 1 1 2773 20150612092334
+186.233.7.116 1 6 21160 20150609082411
+78.46.156.169 1 1 2773 20150619034531
+54.166.159.124 1 1 2773 20150604182812
+213.233.1.106 1 6 21160 20150604111726
+177.126.209.29 1 6 21160 20150628151828
+173.246.103.8 1 1 2773 20150601082728
+201.27.119.155 1 6 21160 20150630191126
+54.164.164.195 2 2 5546 20150601113536
+77.38.106.59 1 6 21160 20150614110249
+201.74.47.193 1 6 21160 20150616123507
+104.197.102.2 1 1 2773 20150629092343
+104.197.100.92 1 1 2773 20150619092344
+87.117.189.201 2 2 5546 20150622112157
+104.197.102.245 1 1 2773 20150603092335
+189.102.156.220 1 6 21160 20150622215451
+180.191.118.176 1 6 21160 20150623031546
+68.230.161.100 1 6 21160 20150608170940
+118.192.3.6 1 1 2773 20150630012358
+104.197.71.204 1 1 2773 20150608231132
+104.197.110.196 1 1 2773 20150622092317
+213.47.217.101 1 1 2773 20150623124304
+209.85.238.31 1 1 2773 20150612150747
+91.217.90.38 1 1 2773 20150601085159
+202.46.57.88 1 1 2773 20150616181023
+104.197.108.199 1 1 2773 20150606092329
+52.7.88.59 1 1 2773 20150607095011
+187.19.160.2 1 6 21160 20150606192126
+144.76.155.8 1 1 2773 20150610014343
+54.164.14.40 1 1 2773 20150601112432
+187.120.12.203 1 6 21160 20150623150130
+54.152.14.52 1 1 2773 20150607095558
+202.46.51.80 1 1 2773 20150625163051
+45.63.9.237 1 1 2773 20150607035117
+5.9.112.6 1 1 2773 20150616024959
+189.107.106.212 1 6 21160 20150604173237
+201.15.163.217 1 6 21160 20150630183701
+107.150.63.131 1 1 2773 20150601142543
+190.199.112.218 1 6 21160 20150624193921
+5.9.44.13 1 1 2773 20150625200010
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150601 118 123 345601 29
+20150602 7 7 19411 6
+20150603 2 2 5546 2
+20150604 9 29 98505 9
+20150605 8 13 40571 7
+20150606 6 11 35025 6
+20150607 7 18 57473 7
+20150608 8 18 58958 8
+20150609 4 14 47866 4
+20150610 7 12 37798 7
+20150611 1 1 2773 1
+20150612 5 5 13865 5
+20150613 5 15 50639 5
+20150614 6 21 71799 6
+20150615 3 13 45093 3
+20150616 7 17 56185 7
+20150617 4 4 11092 4
+20150618 6 16 53412 5
+20150619 6 16 93877 6
+20150620 6 21 71799 6
+20150621 4 4 11092 4
+20150622 9 19 61731 8
+20150623 8 28 95732 7
+20150624 7 22 74572 6
+20150625 7 7 19411 7
+20150626 4 9 29479 4
+20150627 3 8 26706 3
+20150628 3 8 26706 3
+20150629 4 4 11092 4
+20150630 7 22 74572 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+0s-30s 169
+15mn-30mn 4
+2mn-5mn 2
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 281 779213 186 186
+END_SIDER

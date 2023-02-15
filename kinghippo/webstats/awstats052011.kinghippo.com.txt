@@ -1,0 +1,391 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201105 will be lost/reset.
+# Last config file used to build this data file was /home/kinghipp/tmp/awstats/awstats.kinghippo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1973                
+POS_TIME 2642                
+POS_VISITOR 7594                
+POS_DAY 9778                
+POS_DOMAIN 3311                
+POS_LOGIN 3667                
+POS_ROBOT 3822                
+POS_WORMS 4193                
+POS_EMAILSENDER 4324                
+POS_EMAILRECEIVER 4467                
+POS_SESSION 10454               
+POS_SIDER 10613               
+POS_FILETYPES 4602                
+POS_OS 4718                
+POS_BROWSER 4901                
+POS_SCREENSIZE 5238                
+POS_UNKNOWNREFERER 5312                
+POS_UNKNOWNREFERERBROWSER 5610                
+POS_ORIGIN 5727                
+POS_SEREFERRALS 5863                
+POS_PAGEREFS 6007                
+POS_SEARCHWORDS 6282                
+POS_KEYWORDS 6434                
+POS_MISC 2306                
+POS_ERRORS 6493                
+POS_CLUSTER 3523                
+POS_SIDER_404 6595                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110601122035 1 0 32908104706
+FirstTime 20110501000544
+LastTime 20110531154409
+LastUpdate 20110602074806 1 0 0 0 0
+TotalVisits 94                  
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 19166 9 21 68016
+1 7 12 78018 5 10 77076
+2 5 5 10952 1 1 4503
+3 3 3 5476 5 5 17220
+4 2 2 5476 1 3 59541
+5 4 4 8214 3 3 9979
+6 2 2 5476 3 3 7241
+7 5 5 13690 6 9 79814
+8 4 4 10952 2 2 7241
+9 2 2 2738 17 17 70283
+10 6 13 129345 3 4 11744
+11 3 3 8214 1 1 4503
+12 10 10 27380 16 16 69781
+13 5 10 72542 10 10 36495
+14 5 5 13690 6 6 22013
+15 7 7 13690 2 2 7241
+16 5 6 14978 2 2 9006
+17 2 7 64328 4 5 11744
+18 7 12 78018 6 6 17510
+19 2 2 5476 1 1 4503
+20 9 9 21904 3 3 8755
+21 3 3 5476 12 13 45746
+22 4 7 69043 7 7 24751
+23 6 6 16428 7 9 77051
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 71 94 460517
+fr 10 10 27380
+cn 8 11 79995
+ru 8 8 21904
+de 8 8 21904
+tw 3 3 8214
+gb 3 3 8214
+ua 2 2 5476
+br 1 1 2738
+ca 1 1 2738
+in 1 6 61590
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 12 24642 20110527133231 0
+jeeves 10 27380 20110530155622 0
+spider 10 181361 20110523072250 0
+robot 9 2738 20110529174136 0
+googlebot 7 63567 20110524180236 0
+slurp 4 8052 20110520074627 0
+crawl 1 2738 20110523065030 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 7 9016 0 0
+html 116 290228 0 0
+js 14 397621 0 0
+gif 10 3805 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 14
+winxp 81
+winlong 8
+win2000 15
+linuxubuntu 1
+win98 1
+linux 1
+linuxfedora 2
+macosx 12
+winme 2
+winunknown 2
+win95 1
+win2003 8
+Unknown 9
+win2008 4
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 22
+safari5.0.3 6
+msie6.0 65
+webcapture 2
+chrome11.0.696.68 3
+firefox3.8 1
+chrome6.0.475.1 1
+chrome0. 10
+libwww 1
+opera8.00 1
+opera9.01 2
+safari3.2.3 1
+firefox3.5.3 2
+safari5.0.2 6
+msie8.0 7
+firefox1.0 1
+mozilla 4
+msie7.0 20
+firefox3.5.19 6
+wget 4
+Unknown 1
+opera7.54 2
+chrome8.0.552.224 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+FreeNutch/Nutch-1.2 20110523090536
+Wget/1.11.4_Red_Hat_modified 20110527232220
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20110531105355
+libwww-perl/5.834 20110516140140
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+FreeNutch/Nutch-1.2 20110523090536
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 72 78
+From1 0 0
+From2 0 0
+From3 12 12
+From4 32 57
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://paragonist.blogspot.com 6 6
+http://www.whorush.com/search/ 3 3
+http://www.designs-studio.com 2 2
+http://john123.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 18 76536
+404 81 364743
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 22
+//newsletter/admin/index.php 2 -
+/2b810t.jpg 1 http://kinghippo.com/
+//news/admin/index.php 2 -
+//phplists/admin/index.php 2 -
+/robots.txt 48 -
+/2b585t.jpg 1 http://kinghippo.com/
+//mailinglist/admin/index.php 2 -
+/0b861t.jpg 1 http://kinghippo.com/
+//phplist/lsts/admin/index.php 2 -
+//phplist/admin/index.php 2 -
+/1b122t.jpg 1 http://kinghippo.com/
+//phpList/admin/index.php 2 -
+//elists/admin/index.php 2 -
+//lista/admin/index.php 2 -
+/2b183t.jpg 1 http://kinghippo.com/
+/1b723t.jpg 1 http://kinghippo.com/
+//list/index.php 2 -
+/1b873t.jpg 1 http://kinghippo.com/
+//admin/index.php 2 -
+/0b061t.jpg 1 http://kinghippo.com/
+/0b936t.jpg 1 http://kinghippo.com/
+//lists/admin/index.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+174.129.117.237 10 10 0 20110530033143
+94.23.158.134 6 6 16428 20110518203018
+208.80.194.29 6 6 16428 20110529185150
+208.80.194.30 5 5 13690 20110526014001
+208.80.194.28 5 5 13690 20110531004949
+208.80.194.27 5 5 13690 20110523140853
+208.80.194.37 4 4 10952 20110531154409
+94.41.186.253 4 4 10952 20110519020117
+76.224.119.65 3 3 8214 20110514002507
+208.80.194.33 3 3 8214 20110527073034
+88.214.193.166 3 3 8214 20110524132013
+210.13.218.83 2 2 5476 20110521124434
+208.80.194.32 2 2 5476 20110529040945
+208.80.194.34 2 2 5476 20110527221139
+222.77.224.96 2 2 5476 20110513144532
+109.230.217.87 2 2 5476 20110529122954
+109.230.220.78 2 2 5476 20110521234756
+79.140.31.205 2 2 5476 20110520083531
+108.80.226.142 2 2 5476 20110527232220
+212.95.63.226 2 2 5476 20110515213324
+69.58.178.58 2 2 5476 20110505161337
+208.80.194.35 2 2 5476 20110503061357
+116.24.117.50 2 2 5476 20110505152505
+188.165.174.61 2 2 5476 20110523035651
+125.230.110.119 2 2 5476 20110501000613
+208.80.194.31 1 1 2738 20110524045652
+198.228.195.235 1 6 61590 20110515180611
+12.45.248.1 1 6 61590 20110527132915
+188.72.230.156 1 1 2738 20110501222846
+206.183.1.74 1 3 59541 20110531105355
+74.52.245.146 1 1 2738 20110512010603
+121.245.82.57 1 6 61590 20110506012418
+220.231.27.130 1 4 60829 20110521223729
+74.86.61.114 1 1 2738 20110523090536
+50.17.157.13 1 1 2738 20110510085117
+38.100.21.13 1 2 4026 20110517165703
+61.231.8.189 1 1 2738 20110516105840
+195.54.163.122 1 1 2738 20110520151715
+64.78.191.234 1 6 61590 20110501103242
+205.203.134.197 1 1 2738 20110503230923
+184.72.27.66 1 1 2738 20110516022635
+99.255.178.47 1 1 2738 20110527205415
+72.94.249.37 1 1 2738 20110510164233
+188.165.64.130 2 2 5476 20110522181833
+208.80.194.36 1 1 2738 20110503200739
+50.17.85.30 1 1 2738 20110510075558
+109.87.129.37 1 1 2738 20110516110048
+69.64.155.80 1 1 2738 20110516140140
+202.96.51.134 1 1 2738 20110530063405
+188.17.158.132 2 2 5476 20110516105916
+99.189.91.126 2 2 5476 20110510073552
+200.175.4.122 1 1 2738 20110523191706
+208.80.194.26 2 2 5476 20110522013735
+109.230.217.147 1 1 2738 20110504124331
+75.209.246.215 1 6 61590 20110516170240
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20110501 6 11 72542 5
+20110502 1 1 2738 1
+20110503 3 3 8214 3
+20110504 2 2 2738 2
+20110505 6 6 16428 4
+20110506 2 7 64328 2
+20110507 3 3 5476 3
+20110508 1 1 2738 1
+20110509 1 1 2738 1
+20110510 9 9 21904 8
+20110511 1 1 2738 1
+20110512 2 2 5476 2
+20110513 4 4 10952 3
+20110514 5 5 10952 3
+20110515 4 9 69804 3
+20110516 9 14 83494 8
+20110517 4 5 9502 4
+20110518 9 9 24642 3
+20110519 3 3 8214 2
+20110520 5 5 10952 4
+20110521 6 9 74519 4
+20110522 4 4 10952 3
+20110523 6 6 13690 5
+20110524 3 3 8214 3
+20110525 1 1 2738 1
+20110526 2 2 2738 2
+20110527 5 10 72542 5
+20110529 4 4 10952 3
+20110530 2 2 2738 2
+20110531 3 5 65017 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+15mn-30mn 1
+0s-30s 93
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 116 290228 94 94
+END_SIDER

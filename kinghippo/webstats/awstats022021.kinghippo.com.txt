@@ -1,0 +1,619 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202102 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.kinghippo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1996                
+POS_TIME 2665                
+POS_VISITOR 10685               
+POS_DAY 15366               
+POS_DOMAIN 3376                
+POS_LOGIN 3868                
+POS_ROBOT 4023                
+POS_WORMS 5034                
+POS_EMAILSENDER 5165                
+POS_EMAILRECEIVER 5308                
+POS_SESSION 15933               
+POS_SIDER 16112               
+POS_FILETYPES 5443                
+POS_DOWNLOADS 5637                
+POS_OS 5685                
+POS_BROWSER 5988                
+POS_SCREENSIZE 7535                
+POS_UNKNOWNREFERER 7609                
+POS_UNKNOWNREFERERBROWSER 7813                
+POS_ORIGIN 7975                
+POS_SEREFERRALS 8111                
+POS_PAGEREFS 8274                
+POS_SEARCHWORDS 8422                
+POS_KEYWORDS 8574                
+POS_MISC 2329                
+POS_ERRORS 8633                
+POS_CLUSTER 3724                
+POS_SIDER_404 8746                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210301000706 320 74198 9690752954387
+FirstTime 0
+LastTime 20210228101032
+LastUpdate 20210301042536 320 308 11 0 0
+TotalVisits 136                 
+TotalUnique 121                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 122                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 15 31306 8 14 36822
+1 11 11 25760 6 6 41613
+2 1 1 0 27 28 44451
+3 8 8 10917 3 4 180708
+4 8 8 16356 10 20 23611
+5 2 2 2880 7 10 7129
+6 6 11 27491 10 12 10428
+7 3 3 5546 6 8 29237
+8 14 14 20047 9 18 50152
+9 5 5 12284 13 18 48305
+10 9 15 38720 3 9 26932
+11 24 24 5813 12 16 104106
+12 5 10 30671 10 18 37413
+13 7 12 34624 12 28 99265
+14 14 14 6830 17 22 124391
+15 12 12 29516 4 7 20533
+16 6 6 9618 6 11 28819
+17 8 8 17441 11 11 109214
+18 5 5 5760 6 11 17582
+19 5 5 10703 11 21 290547
+20 5 5 9511 17 21 769597
+21 6 6 12391 10 21 82575
+22 5 6 27865 8 15 62737
+23 6 7 12014 11 13 93927
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+us 99 121 231408
+de 25 25 52393
+gb 10 10 17441
+unknown 9 9 10626
+ru 7 7 16638
+fr 6 6 12391
+ua 4 4 11092
+cn 4 4 6349
+pl 4 4 5760
+ro 3 3 3576
+sc 1 1 2773
+tr 1 1 1192
+cl 1 1 2773
+au 1 1 0
+in 3 3 5546
+id 2 2 3666
+vn 1 1 107
+it 1 1 1192
+ca 3 4 6857
+zz 1 1 2773
+se 3 3 6738
+sk 1 1 2773
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 23
+googlebot 29 123435 20210212154125 0
+Googlebot/ 27 30440 20210228111032 8
+bot[\s_+:,\.\;\/\\-] 25 50117 20210212054000 7
+AhrefsBot/ 23 12916 20210228133012 9
+robot 22 41798 20210212205004 7
+dataprovider\.com 9 28192 20210225192823 1
+bingbot/ 8 1436 20210225055547 4
+YandexBot/ 6 3666 20210225084959 3
+bingpreview 6 21160 20210208211444 0
+DotBot/ 5 5636 20210226140406 3
+(firefox/)([0-9]\.|[0-1][0]\.) 3 2773 20210219013336 0
+no_user_agent 4 11092 20210228063323 0
+netEstate[\x20]NE[\x20]Crawler 2 1253 20210227183657 1
+MSIE[\x20]6 2 3666 20210220014234 0
+curl 1 2773 20210211111714 0
+Sogou[\x20]web[\x20]spider/ 1 61 20210218105732 1
+unknown 2 91 20210220223401 2
+MixrankBot 1 1192 20210227054240 0
+python 1 1192 20210227205337 0
+^mozilla\/5\.0$ 2 2384 20210223100028 0
+MJ12bot/ 4 1846 20210223040050 2
+facebookexternalhit/ 1 1192 20210215145311 0
+crawl 2 5546 20210201223619 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 4 2313 0 0
+php 7 730 0 0
+html 153 303689 0 0
+js 11 91401 0 0
+xml 17 1496 0 0
+env 12 1284 0 0
+Unknown 1 107 0 0
+gif 8 3044 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+linuxandroid 12 12
+macosx6 1 1
+macosx11 1 1
+winxp 2 2
+ios_iphone 1 1
+macosx9 1 1
+sunos 1 1
+unix 6 1
+winnt 20 15
+macosx12 1 1
+macosx5 2 2
+linux 47 36
+win7 20 18
+macosx 16 16
+macosx10 1 1
+win8.1 10 10
+Unknown 11 11
+win10 59 59
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 73
+msie6.0 1 1
+firefox28.0 3 3
+chrome84.0.4147.89 2 2
+chrome44.0.2403.130 1 1
+chrome80.0.3987.122 1 1
+chrome5.0.375.99 1 1
+chrome81.0.4044.129 13 13
+chrome85.0.4183.121 1 1
+chrome86.0.4240.111 2 2
+chrome58.0.3029.110 1 1
+chrome83.0.4103.97 6 6
+opera11.52 1 1
+firefox59.0 1 1
+chrome76.0.3809.71 6 1
+chrome87.0.4280.142 6 1
+safari13.1 2 2
+firefox40.0 1 1
+chrome88.0.4324.182 2 2
+chrome88.0.4324.96 6 1
+firefox72.0 2 1
+chrome66.0.3359.117 2 2
+chrome68.0.3440.106 1 1
+chrome63.0.3239.132 12 12
+chrome60.0.3112.107 11 11
+chrome87.0.4280.67 1 1
+chrome62.0.3202.94 10 10
+chrome46.0.2490.71 1 1
+opera72.0.3815.320 1 1
+firefox78.0 1 1
+netscape5.0 1 1
+chrome78.0.3904.70 2 2
+opera72.0.3815.400 1 1
+firefox15.0.1 2 2
+chrome23.0.1271.64 1 1
+chrome87.0.4280.88 5 5
+firefox52.0 2 2
+safari12.0 1 1
+chrome86.0.4240.193 1 1
+opera10.63 1 1
+firefox47.3 1 1
+chrome71.0.3578.98 1 1
+safari14.0 1 1
+chrome83.0.4103.44 1 1
+chrome87.0.4280.66 1 1
+chrome26.0.1410.65 1 1
+firefox16.0 1 1
+chrome40.0.2214.85 1 1
+chrome55.0.2883.95 1 1
+chrome74.0.3729.169 3 3
+netscape4.8 1 1
+msie9.0 2 0
+chrome67.0.3393.4 1 1
+Unknown 10 10
+opera62.0.3331.99 1 1
+firefox82.0 1 1
+firefox84.0 9 9
+chrome76.0.3809.100 1 1
+firefox58.0 4 4
+chrome80.0.3987.149 22 22
+firefox56.0 1 1
+firefox67.0 1 1
+firefox83.0 1 1
+chrome79.0.3945.88 1 1
+chrome45.0.2454.94 1 1
+msie11.0 4 4
+chrome86.0.4240.198 4 4
+chrome67.0.3396.99 1 1
+chrome48.0.2564.109 2 2
+firefox3.6.28 2 2
+chrome80.0.3987.132 9 4
+chrome86.0.4240.75 2 2
+chrome88.0.4324.146 3 3
+safari14.0.1 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+PageThing_http://pagething.com 20210220003621
+Mozilla/5.0_zgrab/0.x 20210210051507
+Go-http-client/1.1 20210228080327
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+PageThing_http://pagething.com 20210220003621
+Go-http-client/1.1 20210228080327
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 163 165
+From1 0 0
+From2 1 2
+From3 0 0
+From4 26 46
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+444 7 0
+400 2 149866
+404 160 1836371
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 66
+/blog/wp-includes/wlwmanifest.xml 1 -
+/sitemap.xml 1 -
+/robots.txt 25 -
+/api/.env 1 -
+/wordpress/ 2 -
+/vendor/.env 4 -
+/.git/HEAD 14 -
+/en/wp-includes/wlwmanifest.xml 1 -
+/sitemap.txt 13 -
+/laravel/.env 1 -
+/new/ 2 -
+/web/ 2 -
+/dup-installer/main.installer.php 1 -
+/www/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/ 1 -
+/.git/config 4 -
+/community/ 1 -
+/storage/.env 3 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/beta/wp-includes/wlwmanifest.xml 1 -
+/wp-content/ 1 -
+/1/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/fonts/css.php 2 -
+/wp-includes/js/jquery/jquery.js 2 -
+/wp-admin/upgrade.php 1 -
+/news/wp-includes/wlwmanifest.xml 1 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/new/wp-includes/wlwmanifest.xml 1 -
+//.env 1 -
+/administrator/ 1 -
+/Telerik.Web.UI.WebResource.axd 1 -
+/system/.env 1 -
+/public/.env 4 -
+/wp-includes/css/css.php 2 -
+/v1/wp-includes/wlwmanifest.xml 1 -
+/wp-login.php 3 -
+//wp-content/ 1 -
+/old/wp-includes/wlwmanifest.xml 1 -
+/humans.txt 2 -
+/blogs/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/admin/.env 1 -
+/blog/ 2 -
+/site/ 2 -
+/.env 17 -
+/.git/index 1 -
+/home/wp-includes/wlwmanifest.xml 1 -
+/wp/ 2 -
+/sites/.env 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/shop/.env 1 -
+/ads.txt 3 -
+/wp-content/wp-1ogin_bak.php 2 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/oldsite/wp-includes/wlwmanifest.xml 1 -
+/dev/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/blog/.env 1 -
+/test/.env 1 -
+/cms/ 2 -
+/staging/wp-includes/wlwmanifest.xml 1 -
+/v2/wp-includes/wlwmanifest.xml 1 -
+/news/ 2 -
+/backup/wp-includes/wlwmanifest.xml 1 -
+/home/ 2 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 122
+13.90.22.196 21 21 1848 20210216114957
+54.196.153.113 11 11 1177 20210226140957
+168.119.11.187 7 7 19411 20210220155558
+138.246.253.24 4 4 0 20210226224130
+213.168.249.115 4 4 2384 20210220003621
+45.158.15.36 4 4 5751 20210226134041
+178.63.51.106 4 4 11092 20210220155543
+78.46.94.83 3 3 8319 20210220155557
+88.198.36.62 2 2 5546 20210227155002
+54.207.95.15 2 2 5546 20210212214844
+91.185.71.198 1 1 2773 20210214204418
+23.250.111.199 1 1 2773 20210207045135
+142.105.32.82 1 6 21160 20210203100137
+104.199.92.128 1 1 2773 20210203173320
+44.242.137.111 1 1 1192 20210228080327
+205.169.39.7 1 6 21160 20210211124718
+88.198.90.9 1 1 2773 20210206132514
+18.194.83.9 2 2 3965 20210214170045
+34.211.153.179 1 1 1192 20210225081115
+144.76.102.243 1 1 2773 20210227085903
+34.212.245.68 1 1 1192 20210220082327
+3.125.53.34 2 2 214 20210223030507
+137.226.113.44 1 1 1180 20210225135404
+193.169.254.212 1 1 1192 20210221233445
+51.222.43.123 1 1 2773 20210225192104
+82.165.117.55 1 1 2773 20210207122113
+45.114.226.173 2 2 5546 20210207172438
+52.35.123.47 1 1 1192 20210225081123
+185.222.57.73 1 1 2773 20210212221842
+3.250.126.13 1 1 1192 20210216170054
+34.68.251.86 2 2 5546 20210213090939
+44.232.152.94 1 1 1192 20210227080534
+104.144.71.151 1 1 2773 20210210011310
+54.221.27.173 1 1 2773 20210211125026
+34.222.183.186 1 1 1192 20210220082222
+86.105.183.77 1 1 1192 20210213123019
+192.71.36.158 1 1 2773 20210205001559
+34.222.178.85 1 1 1192 20210227081058
+89.76.56.195 1 1 2773 20210213160057
+54.38.134.219 1 1 107 20210219211436
+18.184.50.177 1 1 0 20210202032753
+178.136.243.144 1 1 2773 20210216174359
+78.24.220.1 1 1 0 20210221204014
+173.236.169.235 1 1 1192 20210227015426
+80.242.34.105 1 1 2773 20210225235122
+128.14.209.178 1 1 1192 20210218234817
+44.234.34.165 1 1 1192 20210225220505
+158.51.121.200 1 1 1192 20210226061717
+40.123.251.130 1 1 2773 20210208002450
+44.234.254.52 1 1 1192 20210226080733
+159.89.51.228 1 1 107 20210217165549
+67.225.241.126 1 1 107 20210221184237
+88.198.43.207 1 1 2773 20210206132515
+212.83.146.233 1 1 2773 20210212041956
+51.15.191.81 2 2 5546 20210212034736
+45.119.212.93 1 1 107 20210216085024
+123.245.27.230 1 1 2773 20210210120717
+69.160.160.52 2 7 23808 20210221062253
+62.210.157.250 1 1 2773 20210212102714
+45.132.225.92 1 1 0 20210202160820
+172.94.9.12 1 1 2773 20210207163534
+194.146.50.194 1 1 1192 20210216162337
+62.4.14.206 1 1 2773 20210212035242
+67.227.77.200 1 1 1192 20210214192312
+45.132.225.40 1 1 107 20210217042512
+176.38.195.3 1 1 2773 20210227225236
+104.144.83.27 1 1 1192 20210228035915
+193.9.114.235 1 1 2773 20210210111334
+45.56.150.49 1 1 2773 20210210004722
+110.232.80.223 1 1 2773 20210203083529
+23.90.29.121 2 2 5546 20210216041628
+206.189.193.83 1 1 1192 20210224031409
+178.62.47.54 1 1 2773 20210228101032
+104.144.202.250 1 1 2773 20210210011311
+169.47.43.210 1 1 2773 20210203200550
+192.3.215.206 2 2 5546 20210216005423
+185.86.6.194 1 1 1192 20210218133516
+84.17.51.212 1 1 1192 20210226232419
+54.201.219.185 1 1 1192 20210226040613
+51.77.52.160 1 1 107 20210221053600
+216.151.27.66 1 1 2773 20210210051507
+78.46.90.120 2 2 5546 20210227155013
+196.18.142.37 1 1 2773 20210207133208
+107.172.228.172 2 2 5546 20210224183352
+185.220.101.150 1 1 107 20210218062603
+78.85.182.37 1 1 2773 20210208092808
+23.95.97.187 2 2 5546 20210202143058
+104.233.55.31 1 1 1192 20210216174350
+103.227.255.30 1 1 893 20210218081643
+178.165.70.181 2 2 5546 20210210005449
+34.209.17.231 1 1 1192 20210228081052
+136.144.35.254 1 1 2773 20210208041622
+168.119.69.91 2 2 5546 20210227154941
+170.249.94.9 1 1 1192 20210220000358
+89.46.62.26 2 2 2384 20210228064539
+102.37.8.129 1 1 1192 20210214013140
+46.4.83.150 1 1 2773 20210207072848
+13.66.139.82 0 2 20054 
+192.99.18.122 1 2 1311 20210213103156
+145.239.28.197 1 1 107 20210224184446
+193.169.255.188 1 1 1192 20210225115010
+148.251.50.77 2 2 5546 20210219015103
+180.150.115.23 1 1 0 20210210023319
+51.141.122.21 1 1 2773 20210207211523
+64.246.165.150 1 1 1192 20210214193417
+34.90.84.198 1 6 21160 20210211132304
+192.71.23.211 1 1 1192 20210220223402
+42.83.147.202 1 1 1192 20210225093722
+193.118.55.146 1 1 1192 20210226042433
+18.236.7.105 1 1 2773 20210203100137
+51.159.37.145 1 1 2773 20210212001811
+191.96.232.6 1 1 2773 20210211091605
+89.76.58.149 1 1 2773 20210212164616
+158.69.228.209 2 2 5546 20210209101013
+46.8.110.119 1 1 2773 20210206174152
+95.30.7.199 2 2 5546 20210202001406
+34.77.202.63 1 1 1192 20210219013834
+158.51.121.44 1 1 2773 20210203215057
+223.157.25.1 1 1 1192 20210216104234
+64.227.58.145 1 1 107 20210223145533
+173.44.227.120 1 1 1192 20210213214238
+223.152.255.218 1 1 1192 20210227105257
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20210202 6 6 11092 4
+20210203 6 11 35025 6
+20210205 2 2 2773 2
+20210206 4 4 11092 4
+20210207 9 9 24957 8
+20210208 3 3 8319 3
+20210209 1 1 2773 1
+20210210 9 9 22184 8
+20210211 5 15 47866 5
+20210212 11 11 30503 9
+20210213 11 12 24298 9
+20210214 5 5 7541 5
+20210216 31 31 20588 9
+20210217 2 2 214 2
+20210218 7 7 4576 6
+20210219 8 8 17937 5
+20210220 12 12 22598 8
+20210221 6 13 45268 5
+20210223 3 3 321 2
+20210224 4 4 6845 3
+20210225 10 10 14472 9
+20210226 18 18 9910 8
+20210227 11 11 24179 10
+20210228 6 6 8733 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+2mn-5mn 1
+30s-2mn 1
+0s-30s 133
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/ 153 303689 127 127
+/wp-login.php 6 642 6 6
+/.env 2 214 2 0
+/blog/wp-includes/wlwmanifest.xml 1 88 0 0
+/website/wp-includes/wlwmanifest.xml 1 88 0 0
+/api/.env 1 107 0 0
+/vendor/.env 1 107 0 0
+/site/wp-includes/wlwmanifest.xml 1 88 0 0
+/laravel/.env 1 107 0 0
+/wp1/wp-includes/wlwmanifest.xml 1 88 0 0
+/wp-includes/wlwmanifest.xml 1 88 0 0
+/2019/wp-includes/wlwmanifest.xml 1 88 0 0
+/admin/.env 1 107 0 0
+/.git/config 1 107 1 1
+/sites/.env 1 107 0 0
+/cms/wp-includes/wlwmanifest.xml 1 88 0 0
+/2018/wp-includes/wlwmanifest.xml 1 88 0 0
+/xmlrpc.php 1 88 0 0
+/test/wp-includes/wlwmanifest.xml 1 88 0 0
+/shop/.env 1 107 0 1
+/web/wp-includes/wlwmanifest.xml 1 88 0 0
+/wp/wp-includes/wlwmanifest.xml 1 88 0 0
+/news/wp-includes/wlwmanifest.xml 1 88 0 0
+/wordpress/wp-includes/wlwmanifest.xml 1 88 0 0
+/sito/wp-includes/wlwmanifest.xml 1 88 0 1
+/shop/wp-includes/wlwmanifest.xml 1 88 0 0
+/media/wp-includes/wlwmanifest.xml 1 88 0 0
+/blog/.env 1 107 0 0
+/test/.env 1 107 0 0
+/system/.env 1 107 0 0
+/public/.env 1 107 0 0
+/wp2/wp-includes/wlwmanifest.xml 1 88 0 0
+END_SIDER

@@ -1,0 +1,389 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201206 will be lost/reset.
+# Last config file used to build this data file was /home/kinghipp/tmp/awstats/awstats.kinghippo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2007                
+POS_TIME 2663                
+POS_VISITOR 7542                
+POS_DAY 9611                
+POS_DOMAIN 3341                
+POS_LOGIN 3748                
+POS_ROBOT 3903                
+POS_WORMS 4246                
+POS_EMAILSENDER 4377                
+POS_EMAILRECEIVER 4520                
+POS_SESSION 10223               
+POS_SIDER 10380               
+POS_FILETYPES 4655                
+POS_DOWNLOADS 4788                
+POS_OS 4836                
+POS_BROWSER 5019                
+POS_SCREENSIZE 5447                
+POS_UNKNOWNREFERER 5521                
+POS_UNKNOWNREFERERBROWSER 5819                
+POS_ORIGIN 5997                
+POS_SEREFERRALS 6131                
+POS_PAGEREFS 6286                
+POS_SEARCHWORDS 6587                
+POS_KEYWORDS 6739                
+POS_MISC 2327                
+POS_ERRORS 6798                
+POS_CLUSTER 3604                
+POS_SIDER_404 6914                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120701104414 1 0 39731828318
+FirstTime 0
+LastTime 20120630204810
+LastUpdate 20120702074250 1 0 0 0 0
+TotalVisits 58                  
+TotalUnique 52                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 5476 4 7 26467
+1 7 7 19166 3 7 23980
+2 7 7 19166 5 8 29456
+3 2 2 5476 2 8 16114
+4 4 7 69043 5 10 32981
+5 5 5 13690 3 8 28104
+6 2 2 5476 2 4 13627
+7 7 7 19166 3 10 80183
+8 0 0 0 3 6 20740
+9 2 2 5476 2 3 11739
+10 2 2 5476 1 3 11990
+11 3 4 9502 3 4 10102
+12 1 1 2738 2 3 11739
+13 4 12 127895 5 13 38708
+14 7 17 136870 1005 1009 4654355
+15 0 0 0 4 5 12840
+16 3 8 67066 2 8 20991
+17 1 4 60829 7 11 32194
+18 1 1 2738 1 3 11990
+19 1 6 61590 5 10 24579
+20 5 10 72542 7 17 55923
+21 4 9 69804 13 27 127704
+22 3 3 8214 14 26 88117
+23 5 10 72542 5 10 32194
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 26 60 483679
+cn 13 19 151776
+ru 12 12 32856
+fr 5 5 13690
+gb 4 4 10952
+ua 3 3 8214
+nl 3 3 8214
+pl 2 2 5476
+lv 2 2 5476
+de 2 2 5476
+sa 2 2 5476
+md 1 1 2738
+ph 1 6 61590
+no 1 6 61590
+ca 1 1 2738
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 77 199874 20120630185143 0
+googlebot 12 124396 20120625045059 0
+robot 3 0 20120627011617 0
+no_user_agent 1 0 20120601194318 0
+spider 1 2738 20120605205604 0
+netcraft 1 2738 20120602152412 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 12 15456 0 0
+html 78 213564 0 0
+js 22 624833 0 0
+gif 16 6088 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 14
+blackberry 7
+winxp 29
+win2000 14
+linuxubuntu 6
+linux 1
+linuxfedora 1
+winvista 1
+win7 11
+macosx 31
+win16 2
+winme 4
+wince 4
+win2003 11
+Unknown 6
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 28
+msie6.0 32
+blackberry 1
+firefox13.0 6
+firefox2.0.0.1 1
+chrome4.0.221.7 1
+firefox4.0 1
+firefox3.5.3 1
+firefox12.0 2
+msie3.02 4
+opera9.80 6
+firefox3.6.23 1
+chrome19.0.1084.56 6
+msie8.0 1
+netscape4.76 6
+firefox13.0.1 6
+opera7.60 2
+firefox1.0 1
+chrome18.0.1025.142 6
+mozilla 6
+msie7.0 11
+firefox3.6.28 6
+safari5.1 12
+msie5.0 2
+msie9.0 1
+Unknown 3
+firefox11.0 1
+safari 1
+netscape 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla 20120608145808
+\ 20120608004431
+Mozilla/5.0_(compatible;_Lipperhey_Link_Explorer;_http://www.lipperhey.com/) 20120615064702
+Google-Site-Verification/1.0 20120611071922
+nutch-1.4/Nutch-1.4 20120630014532
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+\ 20120608004431
+Google-Site-Verification/1.0 20120611071922
+nutch-1.4/Nutch-1.4 20120630014532
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 29 36
+From1 1 1
+From2 1 1
+From3 9 9
+From4 38 81
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://zithromax.onlinehostlocation.com 3 3
+http://www.orangeask.com 3 3
+http://www.semrush.com/info/kinghippo.com 2 2
+http://www.facebook.com/l.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 31 74375
+206 1 2738
+404 1083 5009958
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/index.php 1 kinghippo.com/index.php
+/administrator/index.php 501 http://kinghippo.com/administrator/index.php
+/phpmyadmin/scripts/setup.php 1 http://KINGHIPPO.COM/phpmyadmin/scripts/setup.php
+/robots.txt 77 -
+/test/ 1 -
+/myadmin/scripts/setup.php 1 http://KINGHIPPO.COM/myadmin/scripts/setup.php
+/administrator/ 501 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+218.93.127.117 6 6 16428 20120620010340
+188.165.230.147 3 3 8214 20120625164857
+109.167.128.226 3 3 8214 20120624021906
+188.143.232.83 2 2 5476 20120613023453
+184.154.171.35 2 2 5476 20120629105426
+95.79.37.41 2 2 5476 20120609035812
+188.165.210.192 2 2 5476 20120627114643
+98.126.67.154 2 2 5476 20120623053719
+193.107.19.58 2 2 5476 20120610212318
+193.0.212.73 2 2 5476 20120627233521
+180.117.132.91 2 2 5476 20120622223059
+109.73.75.195 2 2 5476 20120626054608
+69.58.178.57 2 2 5476 20120606203156
+88.214.193.166 2 2 5476 20120620002050
+213.206.102.102 2 2 5476 20120615064702
+91.224.247.81 2 2 5476 20120615145018
+37.144.177.111 2 2 5476 20120605010811
+184.154.250.180 2 2 5476 20120620025926
+77.108.122.245 2 2 5476 20120605072307
+119.57.96.224 2 2 5476 20120610132324
+166.147.104.156 1 6 61590 20120630191137
+125.64.33.80 1 4 60829 20120608172747
+72.94.249.38 1 1 2738 20120603044902
+199.30.80.110 1 1 2738 20120627220947
+216.46.73.130 1 6 61590 20120618160948
+74.52.245.146 1 1 2738 20120617093221
+46.30.167.163 1 1 2738 20120610015935
+95.65.30.29 1 1 2738 20120612120834
+91.214.49.253 1 1 2738 20120622234240
+176.9.111.204 1 1 2738 20120607052358
+69.147.249.190 1 1 2738 20120618040525
+23.22.18.215 1 1 2738 20120618202010
+202.46.56.145 1 1 2738 20120608145808
+69.28.58.88 1 1 2738 20120630014532
+23.22.87.166 1 1 2738 20120608004431
+207.46.92.19 1 1 2738 20120608043946
+128.2.133.47 1 6 61590 20120610140803
+71.232.245.26 1 6 61590 20120611212009
+94.244.143.49 1 1 2738 20120609215555
+184.107.247.186 1 1 2738 20120619162730
+98.91.15.37 1 6 61590 20120610235120
+211.99.227.130 1 4 60829 20120627044308
+94.75.255.140 1 1 2738 20120607235857
+198.228.201.148 1 6 61590 20120610140059
+38.100.21.15 1 2 4026 20120608111558
+92.241.245.126 1 1 2738 20120602071030
+176.9.198.246 1 1 2738 20120616015757
+198.136.53.234 1 1 2738 20120630204810
+209.85.238.99 1 1 2738 20120611071922
+112.210.237.125 1 6 61590 20120623201524
+65.52.111.78 1 4 60829 20120619132207
+141.0.8.62 1 6 61590 20120619132055
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20120601 2 2 5476 1
+20120602 1 1 2738 1
+20120603 2 2 5476 2
+20120604 2 2 5476 1
+20120605 4 4 10952 2
+20120606 3 3 8214 2
+20120607 2 2 5476 2
+20120608 5 9 73069 5
+20120609 3 3 8214 2
+20120610 8 23 198460 6
+20120611 2 7 64328 2
+20120612 3 3 8214 3
+20120613 1 1 2738 1
+20120615 4 4 10952 2
+20120616 1 1 2738 1
+20120617 1 1 2738 1
+20120618 3 8 67066 3
+20120619 3 11 125157 3
+20120620 5 5 13690 3
+20120622 3 3 8214 2
+20120623 3 8 67066 2
+20120624 3 3 8214 1
+20120625 1 1 2738 1
+20120626 2 2 5476 1
+20120627 6 9 74519 4
+20120629 2 2 5476 1
+20120630 3 8 67066 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 1
+0s-30s 57
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 78 213564 58 58
+END_SIDER

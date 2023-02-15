@@ -1,0 +1,605 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /home/kinghipp/tmp/awstats/awstats.kinghippo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2682                
+POS_VISITOR 12517               
+POS_DAY 16355               
+POS_DOMAIN 3399                
+POS_LOGIN 3833                
+POS_ROBOT 3988                
+POS_WORMS 4420                
+POS_EMAILSENDER 4551                
+POS_EMAILRECEIVER 4694                
+POS_SESSION 17003               
+POS_SIDER 17151               
+POS_FILETYPES 4829                
+POS_DOWNLOADS 4961                
+POS_OS 5009                
+POS_BROWSER 5252                
+POS_SCREENSIZE 6485                
+POS_UNKNOWNREFERER 6559                
+POS_UNKNOWNREFERERBROWSER 7348                
+POS_ORIGIN 7621                
+POS_SEREFERRALS 7756                
+POS_PAGEREFS 7900                
+POS_SEARCHWORDS 8048                
+POS_KEYWORDS 8200                
+POS_MISC 2346                
+POS_ERRORS 8259                
+POS_CLUSTER 3689                
+POS_SIDER_404 8380                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200701045529 1 0 11350837197626
+FirstTime 20200601032014
+LastTime 20200630173136
+LastUpdate 20200701054547 1 0 0 0 0
+TotalVisits 124                 
+TotalUnique 99                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 99                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 10 32252 11 13 26269
+1 6 6 16638 6 11 32954
+2 5 5 13865 14 23 53775
+3 21 21 52687 10 16 26815
+4 4 4 8319 17 25 44356
+5 3 3 8319 12 21 40192
+6 7 7 19411 15 23 58251
+7 2 2 2773 15 21 52579
+8 4 8 45208 12 18 23583
+9 13 13 36049 10 22 51541
+10 3 3 8319 13 28 74404
+11 3 3 8319 20 37 55504
+12 8 8 16638 13 35 54783
+13 10 10 27730 12 18 25973
+14 6 6 16638 10 16 29380
+15 9 14 43344 13 18 18209
+16 1 1 2773 3 12 33804
+17 9 14 40571 10 20 43074
+18 5 5 11092 48 59 118686
+19 3 3 8319 8 17 88052
+20 2 2 5546 32 35 54414
+21 6 6 16638 27 34 54967
+22 6 6 16638 10 18 30389
+23 8 18 58958 36 38 64252
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 62 67 190313
+de 33 33 74871
+ru 12 16 67392
+cn 6 6 16638
+ua 6 6 16638
+gb 5 10 32252
+ca 4 4 11092
+se 3 3 8319
+fi 3 3 8319
+sk 3 3 2773
+nl 3 13 45093
+by 2 7 23933
+gr 2 2 5546
+ro 2 2 5546
+vn 1 1 2773
+fr 1 1 2773
+in 1 1 2773
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 107 221543 20200630224527 28
+googlebot 76 261720 20200630040302 0
+bingpreview 16 111858 20200621094701 0
+no_user_agent 13 12380 20200620171812 0
+curl 3 8319 20200622081402 0
+robot 3 8319 20200629170530 0
+[\s_+:,\.\;\/\\-]bot 3 8319 20200629055023 0
+crawl 2 5546 20200622052659 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+gif 10 3805 0 0
+html 149 390993 0 0
+css 5 2840 0 0
+js 14 119406 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+winnt 26 26
+macosx 17 17
+Unknown 41 36
+linux 34 19
+win7 30 26
+ios_iphone 6 1
+winunknown 1 1
+macosx6 2 2
+winxp 12 12
+linuxandroid 3 3
+win8.1 2 2
+winlong 1 1
+win8 2 2
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 60
+chrome26.0.1410.63 1 1
+msie7.0 6 2
+chrome63.0.3239.132 12 12
+chrome83.0.4103.97 12 7
+firefox35.0 1 1
+firefox73.0 1 1
+safari11.0.1 1 1
+chrome34.0.1847.137 1 1
+safari6.0.3 1 1
+chrome60.0.3112.107 1 1
+chrome74.0.3729.131 1 1
+safari 12 2
+chrome64.0.3282.167 1 1
+chrome66.0.3359.117 2 2
+chrome39.0.2171.95 1 1
+safari13.1.1 6 1
+chrome80.0.3987.132 2 2
+chrome81.0.4044.138 1 1
+chrome41.0.2228.0 3 3
+safari10.0.1 1 1
+msie10.0 2 2
+Unknown 23 23
+safari5.1.8 1 1
+chrome80.0.3987.116 1 1
+chrome34.0.1847.131 1 1
+chrome76.0.3809.132 2 2
+chrome22.0.1207.1 3 3
+chrome46.0.2490.80 2 2
+chrome40.0.2214.85 6 6
+opera54.0.2952.64 1 1
+safari13.0 1 1
+chrome51.0.2704.103 2 2
+safari11.0.2 1 1
+chrome45.0.2454.94 1 1
+firefox52.0 4 4
+safari5.1.9 1 1
+chrome77.0.3865.90 1 1
+firefox67.0 2 2
+chrome81.0.4044.122 1 1
+netscape5.0 3 3
+firefox3.6.1 1 1
+chrome64.0.3282.140 1 1
+chrome26.0.1410.65 1 1
+msie11.0 2 2
+firefox59.0 2 2
+chrome64.0.3282.119 1 1
+firefox47.0 3 3
+firefox3.6.13 1 1
+opera62.0.3331.99 1 1
+firefox41.0 1 1
+firefox57.0 5 5
+chrome73.0.3683.90 1 1
+chrome80.0.3987.122 1 1
+firefox58.0 1 1
+chrome68.0.3440.106 1 1
+chrome72.0.3626.121 1 1
+firefox75.0 1 1
+msie6.0 2 2
+firefox2.0.0.13 1 1
+mozilla 24 19
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Go-http-client/1.1 20200624095458
+Mozilla/5.0_Firefox/35.0 20200608230056
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200620002911
+gobyus 20200601033530
+colly_-_https://github.com/gocolly/colly/v2 20200606070813
+Mozilla/5.0_(compatible;_Panscient/1.0;__http://panscient.com/faq.htm) 20200614045022
+python-requests/2.21.0 20200610123150
+Mozilla/5.0 20200630111545
+python-requests/2.23.0 20200624151048
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200605153832
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20200619205843
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20200603045326
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Go-http-client/1.1 20200624095458
+python-requests/2.21.0 20200610123150
+gobyus 20200601033530
+colly_-_https://github.com/gocolly/colly/v2 20200606070813
+python-requests/2.23.0 20200624151048
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 139 143
+From1 1 1
+From2 0 0
+From3 0 0
+From4 9 34
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+400 26 36218
+404 274 481984
+403 1 0
+444 38 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 135
+/assets/kcfinder//browse.php 1 -
+/site/ 1 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/assets/ckeditor/kcfinder//browse.php 1 -
+/temp/ 1 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/editor/ 1 -
+/phpunit.xml 1 -
+/kcfinder//browse.php 1 -
+/2020/ 1 -
+/tmp/ 1 -
+/kinghippo.sql.gz 1 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/website/wp-includes/wlwmanifest.xml 1 -
+//wp//wp-admin/install.php 1 -
+/blog/ 2 -
+/ws.php 1 http://kinghippo.com/ws.php
+/robots.txt 80 -
+/js/admin.js 1 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/bk/ 1 -
+/wp-content/plugins/splogr/data/kws/8_kws.txt 2 -
+/root.php 1 http://kinghippo.com/root.php
+/dev/ 1 -
+/.git/HEAD 2 -
+/bla.php 1 http://kinghippo.com/bla.php
+/mysql/ 1 -
+/old/ 2 -
+/home/ 1 -
+/sites/.env 1 -
+/wp-content/plugins/splogr/data/kws/4_kws.txt 2 -
+/kinghippo.rar 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/blog/.env 1 -
+/wp-content/plugins/splogr/data/kws/9_kws.txt 2 -
+/2018/ 1 -
+/wp-content/plugins/splogr/data/kws/5_kws.txt 2 -
+/templates/admin/js/kcfinder//browse.php 1 -
+/iglp.php 1 http://kinghippo.com/iglp.php
+/sitemap.xml 4 -
+/gaza.php 1 http://kinghippo.com/gaza.php
+/new/ 2 -
+/wp-includes/wlwmanifest.xml 1 -
+/.env 3 -
+/wp-content/plugins/splogr/data/kws/2_kws.txt 2 -
+/cms/ 1 -
+/REV/no.php 1 http://kinghippo.com/REV/no.php
+/css.php 1 http://kinghippo.com/css.php
+/ClientPage.php 1 http://kinghippo.com/ClientPage.php
+/laravel/.env 1 -
+/api/.env 1 -
+/admin/login.php 1 -
+/old-site/ 1 -
+/admin/index.php 1 -
+/vendor/.env 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/v1/ 1 -
+/wp-content/plugins/splogr/data/kws/7_kws.txt 2 -
+/bladeacss.php 1 http://kinghippo.com/bladeacss.php
+/administrator/index.php 1 -
+//new//wp-admin/install.php 1 -
+/bitrix/admin/ 1 -
+/ads.txt 4 -
+/REV/people.php 1 http://kinghippo.com/REV/people.php
+/wp/ 2 -
+/REV/50btc.php 1 http://kinghippo.com/REV/50btc.php
+/demo/ 1 -
+/xmlrpc.php 2 -
+/web/ 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/bak/ 1 -
+/wp1/ 1 -
+/wp-acess.php 1 http://kinghippo.com/wp-acess.php
+/wp-content/plugins/splogr/data/kws/1_kws.txt 2 -
+/kinghippo.zip 1 -
+/pas.php 1 http://kinghippo.com/pas.php
+/2019/ 1 -
+/test/.env 1 -
+/v2/ 1 -
+/blog/wp-login.php 6 -
+/w0rm.html.php 1 http://kinghippo.com/w0rm.html.php
+/wp2/ 1 -
+/f0w.php 1 http://kinghippo.com/f0w.php
+//wordpress//wp-admin/install.php 2 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+/wp-back.php 1 http://kinghippo.com/wp-back.php
+/+/ 1 -
+/2.php 1 http://kinghippo.com/2.php
+/news/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-login.php 6 -
+/manager/ 1 -
+/blogs/ 1 -
+/login.php 1 -
+/admin/kcfinder//browse.php 1 -
+/humans.txt 3 -
+/t4.php 1 http://kinghippo.com/t4.php
+/.index.php 1 http://kinghippo.com/.index.php
+/test/ 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+//wp-admin/install.php 2 -
+/options.php 1 http://kinghippo.com/options.php
+/index.php 7 -
+/favicon.png 1 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/splogr/data/kws/3_kws.txt 2 -
+/wp-login.php 11 -
+/wp-admin 6 -
+/user/ 1 -
+/wp-content/plugins/wc-frontend-manager/readme.txt 1 -
+/old-wp/ 1 -
+///wp-admin/install.php 2 -
+/backup/ 1 -
+/styles.php 1 http://kinghippo.com/styles.php
+/REV/pi.php 1 http://kinghippo.com/REV/pi.php
+/50btc.php 1 http://kinghippo.com/50btc.php
+/wordpress/ 1 -
+/sito/ 1 -
+/pi.php 1 http://kinghippo.com/pi.php
+/main/ 1 -
+/admin/.env 1 -
+/1.php 1 http://kinghippo.com/1.php
+//vendor/phpunit/phpunit/src/Util/PHP/XsamXadoo_Bot_lara.php 1 -
+/wp-content/plugins/custom-registration-form-builder-with-submission-manager/readme.txt 1 -
+/wp-content/plugins/splogr/data/kws/10_kws.txt 2 -
+/css/album.css 1 -
+/seter.php 1 http://kinghippo.com/seter.php
+/wp-content/plugins/splogr/data/kws/6_kws.txt 2 -
+/auth/login 1 -
+/admin/ 1 -
+/kinghippo.sql 1 -
+/xxxss 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 99
+188.143.169.29 6 6 16638 20200621133430
+138.246.253.15 6 6 0 20200616170000
+183.136.225.46 3 3 8319 20200617085213
+213.217.0.184 3 3 8319 20200614225028
+64.227.39.49 3 3 8319 20200619173949
+137.226.113.27 3 3 8319 20200619205843
+88.198.90.9 3 3 8319 20200624062524
+46.34.228.148 3 3 2773 20200601033530
+144.217.71.103 3 3 8319 20200605153142
+144.76.162.206 3 3 8319 20200624033109
+88.198.43.207 3 3 8319 20200620143422
+137.226.113.26 3 3 8319 20200620002911
+165.227.65.87 2 2 5546 20200618212215
+78.46.94.83 2 2 5546 20200603011845
+23.254.36.105 2 2 5546 20200603012658
+78.46.90.120 2 2 5546 20200610173114
+176.113.115.222 2 6 39662 20200617084925
+23.90.31.172 2 2 5546 20200622135057
+144.76.102.243 2 2 5546 20200606093225
+96.8.119.80 2 2 5546 20200604235401
+134.19.181.29 2 12 42320 20200625235857
+158.69.241.134 2 2 5546 20200620033039
+198.23.187.112 2 2 5546 20200608125324
+104.154.84.59 2 2 5546 20200614184514
+178.127.233.2 2 7 23933 20200615001358
+66.249.91.124 1 1 2773 20200603045326
+148.251.50.77 1 1 2773 20200606093232
+71.6.165.200 1 1 2773 20200602123344
+37.120.217.39 1 1 2773 20200628123443
+134.209.194.240 1 1 2773 20200623093508
+95.217.201.38 1 1 2773 20200609021037
+116.202.15.251 1 1 2773 20200606131512
+62.210.83.78 1 1 2773 20200629153140
+95.217.238.175 1 1 2773 20200606091703
+161.35.215.61 1 1 2773 20200621204535
+31.42.189.222 1 1 2773 20200628010349
+91.14.224.29 1 1 2773 20200602234112
+198.143.133.154 1 1 2773 20200610193143
+66.240.236.119 1 1 2773 20200606061906
+192.36.70.176 1 1 2773 20200624095458
+88.198.36.62 1 1 2773 20200624062509
+124.206.180.133 1 1 2773 20200608230056
+13.91.103.115 1 1 2773 20200609140559
+34.215.65.180 1 1 2773 20200601032014
+64.246.165.170 1 1 2773 20200612022140
+54.188.139.253 1 1 2773 20200611030624
+76.65.216.208 1 1 2773 20200628134728
+192.71.36.158 1 1 2773 20200617145353
+69.165.11.15 1 1 2773 20200606150518
+80.82.68.117 1 1 2773 20200624134258
+88.99.141.3 1 1 2773 20200617152847
+18.236.235.33 1 1 2773 20200614030236
+5.188.62.25 1 1 2773 20200625183539
+34.209.138.206 1 1 2773 20200604030313
+94.130.167.248 1 1 2773 20200624223821
+44.234.9.71 1 1 2773 20200622032437
+113.172.121.41 1 1 2773 20200630010553
+34.217.106.26 1 1 2773 20200612030901
+38.18.62.119 1 1 2773 20200611002142
+44.234.34.5 1 1 2773 20200615030307
+72.79.58.112 1 1 2773 20200614045022
+18.234.160.69 1 1 2773 20200630111545
+104.155.26.73 1 1 2773 20200608221030
+51.77.246.205 1 6 21160 20200605153830
+163.172.164.87 1 1 2773 20200601194904
+54.186.186.17 1 1 2773 20200610123150
+44.233.116.94 1 1 2773 20200625145204
+34.76.102.246 1 1 2773 20200623215512
+144.168.162.250 1 1 2773 20200609053750
+54.188.125.133 1 1 2773 20200614030313
+52.186.149.24 1 1 2773 20200616065315
+18.216.31.37 1 1 2773 20200611101609
+192.71.103.173 1 1 2773 20200609172044
+54.196.127.250 1 1 2773 20200622065534
+31.132.211.144 1 1 2773 20200608030626
+44.234.88.242 1 1 2773 20200619031036
+198.20.103.242 1 1 2773 20200614230412
+46.4.83.150 1 1 2773 20200606093250
+35.184.63.110 1 1 2773 20200606164253
+23.94.4.242 2 2 5546 20200630025001
+49.233.52.50 2 2 5546 20200606070813
+188.93.56.216 1 1 2773 20200629220346
+86.127.253.18 1 1 2773 20200617114020
+195.123.214.113 2 2 5546 20200629053330
+74.208.16.31 2 2 5546 20200624151048
+135.181.30.144 1 1 2773 20200622093457
+51.77.52.160 1 1 2773 20200620085431
+34.212.27.111 1 1 2773 20200602030412
+34.70.109.186 1 1 2773 20200619091945
+166.137.8.22 1 6 21160 20200630173136
+75.75.232.21 2 2 5546 20200622221123
+54.69.195.31 1 1 2773 20200613030600
+54.184.143.238 1 1 2773 20200609031243
+54.92.229.2 1 1 2773 20200623042343
+78.46.103.42 2 2 5546 20200616182147
+80.240.31.63 2 2 5546 20200613175755
+185.243.217.28 1 1 2773 20200607141547
+69.165.11.190 1 1 2773 20200603232248
+147.78.64.200 1 1 2773 20200623002621
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20200601 7 7 13865 5
+20200602 5 5 8319 5
+20200603 6 6 16638 4
+20200604 3 3 8319 2
+20200605 6 11 35025 4
+20200606 12 12 33276 11
+20200607 1 1 2773 1
+20200608 5 5 13865 4
+20200609 7 7 19411 6
+20200610 4 4 11092 4
+20200611 3 3 8319 3
+20200612 6 6 11092 6
+20200613 5 5 13865 5
+20200614 10 10 27730 10
+20200615 3 8 23933 3
+20200616 6 6 13865 4
+20200617 8 12 56300 7
+20200618 2 2 5546 1
+20200619 6 6 16638 4
+20200620 6 6 16638 4
+20200621 3 3 8319 2
+20200622 7 7 19411 5
+20200623 4 4 11092 4
+20200624 8 8 22184 7
+20200625 4 14 47866 3
+20200628 3 3 8319 3
+20200629 4 4 11092 3
+20200630 5 10 32252 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 124
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 149 390993 124 124
+END_SIDER

@@ -1,0 +1,366 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 200905 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2533                
+POS_VISITOR 6987                
+POS_DAY 9027                
+POS_DOMAIN 3188                
+POS_LOGIN 3458                
+POS_ROBOT 3613                
+POS_WORMS 4002                
+POS_EMAILSENDER 4133                
+POS_EMAILRECEIVER 4276                
+POS_SESSION 9727                
+POS_SIDER 9905                
+POS_FILETYPES 4411                
+POS_OS 4548                
+POS_BROWSER 4709                
+POS_SCREENSIZE 4958                
+POS_UNKNOWNREFERER 5032                
+POS_UNKNOWNREFERERBROWSER 5452                
+POS_ORIGIN 5757                
+POS_SEREFERRALS 5890                
+POS_PAGEREFS 6052                
+POS_SEARCHWORDS 6287                
+POS_KEYWORDS 6468                
+POS_MISC 2197                
+POS_ERRORS 6558                
+POS_CLUSTER 3314                
+POS_SIDER_404 6661                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20090601041712 1 0 54119971994
+FirstTime 20090501064528
+LastTime 20090531161038
+LastUpdate 20090601190412 1 0 0 0 0
+TotalVisits 83                  
+TotalUnique 50                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 9 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 8 65981 5 5 3544
+1 4 9 68439 1 1 2458
+2 1 1 2458 2 2 4230
+3 3 3 7374 7 8 16169
+4 3 3 7374 3 3 4916
+5 5 5 9832 1 1 1772
+6 3 3 7374 3 3 6688
+7 4 4 9832 2 2 4230
+8 4 9 68439 2 2 1772
+9 2 3 5937 3 3 6688
+10 6 15 131834 1 1 1772
+11 0 0 0 2 2 4916
+12 3 8 65981 2 2 4230
+13 8 28 254092 1 1 2458
+14 4 9 68439 5 5 10232
+15 2 2 4916 8 8 16920
+16 6 11 73355 9 9 14070
+17 3 3 7374 6 6 13376
+18 3 8 65981 8 9 15483
+19 5 8 14072 3 3 4230
+20 8 23 1427930 5 5 3117800
+21 6 16 1706189 6 9 23706663
+22 4 9 68439 3 3 1772
+23 1 1 2458 2 2 4230
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ip 52 72 362244
+us 35 108 3715875
+ca 3 3 4916
+gb 1 6 61065
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+spider 18 22122 20090531004805 0
+googlebot 11 77510 20090530212144 0
+voila 10 24580 20090531180328 0
+slurp 4 6958 20090530180137 0
+msnbot 3 7374 20090531010535 0
+no_user_agent 3 7374 20090524114819 0
+robot 2 0 20090514224642 0
+crawl 1 2458 20090504174946 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 21 21441 0 0
+html 86 208930 0 0
+js 37 1079547 0 0
+doc 5 2818962 0 0
+gif 40 15220 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 12
+winxp 126
+winlong 19
+winnt 1
+win2000 3
+win98 1
+linux 1
+linuxfedora 1
+winme 2
+macosx 20
+winunknown 1
+win2003 4
+Unknown 10
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 16
+msie6.0 37
+msie3.0 1
+libwww 1
+firefox2.0.0.12 2
+msie5.5 1
+msie8.0 18
+firefox1.0.7 1
+firefox1.0 1
+mozilla 1
+firefox3.0.6 6
+msie7.0 60
+Unknown 8
+firefox3.0.10 26
+firefox3.5 6
+safari 14
+firefox3.0.8 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+BlackBerry8120/4.5.0.52_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/135 20090508193136
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20090512031213
+ru_com_viewer_larbin2.6.3@unspecified.mail 20090530195421
+libwww-perl/5.814 20090518081600
+Yanga_WorldSearch_Bot_v1.1/beta_(http://www.yanga.co.uk/) 20090520203439
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+BlackBerry8120/4.5.0.52_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/135 20090508193136
+ru_com_viewer_larbin2.6.3@unspecified.mail 20090530195421
+Yanga_WorldSearch_Bot_v1.1/beta_(http://www.yanga.co.uk/) 20090520203439
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 84 84
+From1 0 0
+From2 3 3
+From3 4 4
+From4 0 98
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+go 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://us.mg1.mail.yahoo.com/dc/blank.html 3 3
+http://www.facebook.com/profile.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+mark+mccartney 1
+kinghippo 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+mark 1
+mccartney 1
+kinghippo 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 7 26758451
+404 36 63792
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 1
+/robots.txt 36 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+208.80.195.31 6 6 14748 20090517211150
+208.80.195.38 6 6 14748 20090515192147
+208.80.195.51 5 5 12290 20090531064120
+208.80.195.42 5 5 12290 20090528055530
+208.80.195.32 5 5 12290 20090530072840
+208.80.195.39 4 4 9832 20090525014744
+207.237.244.213 4 9 1642666 20090514211131
+91.205.124.12 3 3 7374 20090520203439
+208.80.195.28 3 3 7374 20090521203218
+205.178.184.155 3 3 4916 20090506052624
+69.112.172.91 3 8 1298426 20090514204359
+208.108.81.181 2 12 122130 20090518132953
+208.80.195.33 2 2 4916 20090527160919
+208.80.195.34 2 2 4916 20090509135744
+208.80.195.27 2 2 4916 20090525125810
+208.80.195.37 2 2 4916 20090519091032
+209.30.181.14 1 6 61065 20090513160553
+24.12.125.33 1 1 2458 20090522164637
+208.80.195.53 1 1 2458 20090529175927
+90.208.250.35 1 6 61065 20090518123521
+68.84.132.215 1 6 61065 20090522002305
+208.80.195.44 1 1 2458 20090517070622
+69.64.155.59 1 1 2458 20090518081600
+91.208.16.27 1 1 2458 20090508152507
+208.80.195.40 1 1 2458 20090518081825
+173.2.182.240 1 6 61065 20090526015634
+206.53.153.33 0 1 382 
+74.52.245.146 1 1 2458 20090531103523
+87.235.119.79 1 6 61065 20090523081611
+82.161.231.16 1 1 2458 20090511132026
+67.68.22.249 1 1 2458 20090510173707
+75.83.187.24 1 6 61065 20090528213724
+38.105.83.11 1 2 3479 20090524095231
+64.56.64.57 1 1 2458 20090530195421
+67.68.20.120 1 1 2458 20090519191627
+38.108.180.128 1 1 2458 20090512031213
+208.80.195.35 1 1 2458 20090514044234
+70.81.194.113 1 6 61065 20090508203650
+75.83.203.22 1 6 61065 20090507222517
+65.82.130.9 1 6 61065 20090518140724
+208.80.195.120 1 1 2458 20090508235457
+69.58.178.26 1 1 2458 20090506105859
+72.196.149.38 1 6 61065 20090506183739
+76.243.176.5 1 6 61065 20090525200055
+74.72.203.155 1 5 60937 20090518102640
+208.80.195.41 1 1 2458 20090531161038
+66.68.19.47 1 6 61065 20090523130035
+173.15.171.13 1 6 61065 20090527100840
+206.53.157.214 0 1 379 
+206.53.153.174 1 2 3479 20090508193132
+72.94.249.34 1 1 2458 20090515122908
+15.195.201.87 1 6 61065 20090527130717
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20090501 2 2 4916 2
+20090502 1 1 2458 1
+20090503 2 2 4916 2
+20090504 2 2 4916 2
+20090505 2 2 4916 2
+20090506 8 13 75813 6
+20090507 2 7 63523 2
+20090508 5 13 72679 5
+20090509 2 2 4916 2
+20090510 3 3 7374 3
+20090511 3 3 7374 3
+20090512 3 3 7374 3
+20090513 3 8 65981 3
+20090514 9 19 2946008 4
+20090515 3 3 7374 3
+20090516 2 2 4916 2
+20090517 2 2 4916 2
+20090518 8 32 312571 7
+20090519 2 2 4916 2
+20090520 1 1 2458 1
+20090521 1 1 2458 1
+20090522 3 8 65981 3
+20090523 2 12 122130 2
+20090524 1 2 3479 1
+20090525 3 8 65981 3
+20090526 3 8 65981 3
+20090527 4 14 127046 4
+20090528 2 7 63523 2
+20090529 1 1 2458 1
+20090530 3 3 7374 3
+20090531 3 3 7374 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+0s-30s 79
+2mn-5mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 86 208930 83 81
+/Alicia/Thesistitlepage.doc 3 69120 0 1
+/Alicia/ADHthesis.doc 2 2749842 0 1
+END_SIDER

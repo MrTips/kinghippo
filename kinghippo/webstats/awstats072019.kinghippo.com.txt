@@ -1,0 +1,831 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201907 will be lost/reset.
+# Last config file used to build this data file was /home/kinghipp/tmp/awstats/awstats.kinghippo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2688                
+POS_VISITOR 18232               
+POS_DAY 23410               
+POS_DOMAIN 3437                
+POS_LOGIN 3944                
+POS_ROBOT 4099                
+POS_WORMS 4522                
+POS_EMAILSENDER 4653                
+POS_EMAILRECEIVER 4796                
+POS_SESSION 24156               
+POS_SIDER 24363               
+POS_FILETYPES 4931                
+POS_DOWNLOADS 5063                
+POS_OS 5111                
+POS_BROWSER 5323                
+POS_SCREENSIZE 6620                
+POS_UNKNOWNREFERER 6694                
+POS_UNKNOWNREFERERBROWSER 7596                
+POS_ORIGIN 7904                
+POS_SEREFERRALS 8039                
+POS_PAGEREFS 8194                
+POS_SEARCHWORDS 8372                
+POS_KEYWORDS 8524                
+POS_MISC 2352                
+POS_ERRORS 8583                
+POS_CLUSTER 3800                
+POS_SIDER_404 8693                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190801000316 24 3955 11530555083382
+FirstTime 20190701002723
+LastTime 20190731181949
+LastUpdate 20190801075554 24 0 23 0 0
+TotalVisits 247                 
+TotalUnique 132                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 134                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 22 65528 13 28 62152
+1 9 12 42583 13 31 102617
+2 20 20 55460 3 5 10483
+3 17 17 44368 43 48 91062
+4 16 16 44368 9 27 123946
+5 19 22 70313 8 15 30180
+6 10 10 24957 20 33 125894
+7 17 22 65528 5 14 18238
+8 6 6 16638 10 18 47994
+9 13 13 33276 10 16 30951
+10 6 6 13865 11 30 130984
+11 8 11 39810 30 38 76575
+12 5 5 13865 8 12 27529
+13 8 8 22184 12 23 34762
+14 14 19 57209 22 48 210120
+15 12 13 34564 129 277 482686
+16 10 14 46644 6 14 20298
+17 7 7 19411 16 32 50967
+18 10 10 24957 8 22 68261
+19 11 11 30503 8 24 90725
+20 7 12 37798 12 26 97639
+21 17 20 64767 24 28 51877
+22 21 21 55460 10 25 87466
+23 9 9 24957 11 25 96540
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 177 187 527595
+de 38 53 179639
+cn 28 28 77644
+ru 9 9 24957
+fr 5 5 13865
+ca 4 4 11092
+gb 4 4 11092
+ve 2 2 5546
+co 2 2 5546
+in 2 2 5546
+kr 2 4 8122
+ug 2 2 5546
+sk 2 7 23933
+gr 2 2 2773
+ua 2 2 5546
+il 1 1 2773
+pl 1 1 2773
+ph 1 6 21160
+cl 1 1 2773
+eu 1 1 2773
+jp 1 1 2773
+th 1 1 2773
+hu 1 1 2773
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 100 205362 20190731063556 33
+googlebot 97 315516 20190731230702 0
+bingpreview 54 582546 20190728235613 0
+robot 50 94746 20190730175625 16
+spider 14 74914 20190731105104 0
+no_user_agent 8 22184 20190731185751 0
+netcraft 5 13865 20190704195147 0
+curl 1 0 20190725070727 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 11 7688 0 0
+js 18 153522 0 0
+gif 8 3044 0 0
+html 289 784759 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+win8.1 2 2
+macosx8 3 3
+macosx9 3 3
+macosx 71 71
+Unknown 60 60
+win8 1 1
+winlong 1 1
+winxp 9 9
+winnt 70 70
+linuxandroid 11 4
+linux 46 21
+win7 49 44
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 60
+firefox3.5.6 1 1
+chrome51.0.2704.106 1 1
+chrome71.0.3578.98 2 2
+chrome34.0.1847.116 1 1
+chrome65.0.3325.162 9 9
+firefox61.0 1 1
+chrome46.0.2490.71 1 1
+chrome64.0.3282.186 24 24
+firefox3.0.7 2 2
+chrome67.0.3396.62 1 1
+chrome72.0.3626.109 1 1
+firefox63.0 1 1
+chrome66.0.3359.181 3 3
+firefox51.0 1 1
+firefox33.0 1 1
+chrome25.0.1364.172 1 1
+chrome75.0.3770.100 7 2
+firefox57.0 3 3
+chrome42.0.2311.152 2 2
+chrome55.0.2883.75 1 1
+mozilla 17 17
+opera54.0.2952.60 2 2
+chrome58.0.3029.110 13 13
+firefox65.0 1 1
+firefox60.0 1 1
+chrome70.0.3538.110 1 1
+chrome4.0.206.0 1 1
+chrome40.0.2214.85 5 5
+chrome22.0.1207.1 2 2
+chrome26.0.1410.65 3 3
+chrome63.0.3239.132 8 8
+chrome34.0.1847.114 4 2
+chrome61.0.3163.100 3 3
+chrome45.0.2454.94 1 1
+chrome74.0.3729.169 2 2
+firefox47.0 23 23
+firefox50.0 20 5
+msie6.0 2 2
+chrome65.0.3325.181 22 22
+chrome5.0.375.99 4 4
+chrome34.0.1847.131 1 1
+chrome64.0.3282.119 1 1
+chrome42.0.2311.90 1 1
+chrome74.0.3729.131 2 2
+firefox58.0 4 4
+msie10.0 2 2
+chrome69.0.3497.100 4 4
+chrome34.0.1847.137 2 2
+msie11.0 5 5
+safari11.0.3 7 7
+chrome75.0.3770.101 6 1
+firefox54.0 1 1
+firefox59.0 26 26
+Unknown 43 43
+safari 12 2
+chrome66.0.3359.117 4 4
+chrome19.0.1061.0 1 1
+chrome64.0.3282.167 1 1
+chrome36.0.1985.125 3 3
+chrome67.0.3396.87 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+python-requests/2.22.0 20190704162605
+python-requests/2.21.0 20190729112548
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13-0rtt;__http://researchscan.comsys.rwth-aachen.de) 20190710002048
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190726222058
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190727001157
+Go-http-client/2.0 20190729034303
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20190706001638
+facebookexternalhit/1.1_(compatible;) 20190702174300
+panscient.com 20190718095717
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190726223858
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190721224333
+Go-http-client/1.1 20190731035340
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Go-http-client/1.1 20190731035340
+panscient.com 20190718095717
+python-requests/2.21.0 20190729112548
+facebookexternalhit/1.1_(compatible;) 20190702174300
+python-requests/2.22.0 20190704162605
+Go-http-client/2.0 20190729034303
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 274 291
+From1 6 6
+From2 1 1
+From3 1 1
+From4 7 27
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://brandnewblogs.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 487 859420
+444 5 0
+400 1 1393
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 311
+/wp-content/themes/bl.php 1 -
+/wp-content/themes/AdvanceImage5/header.php 1 -
+/includes/general.js 1 -
+/help/user/index.html 1 -
+/extern.php 1 -
+/datacenter/downloadApp/showDownload.do 1 -
+/web/ 1 -
+/admin/editor/ 1 -
+/wp-content 1 -
+/site/ 1 -
+/portal/wp-includes/wlwmanifest.xml 1 -
+/plugins/filemanager/filemanager/js 1 -
+/pub/guiedit/guiedit.js 1 -
+/v2/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/setup-config.php 1 -
+/Prompt/images/P_Wrong.gif 1 -
+/portal/ 1 -
+/test_404_page/ 1 -
+/archive/archive.css 1 -
+/deptWebsiteAction.do 1 -
+/template/1/bluewise/_files/jspxcms.css 1 -
+/common/help/images/helplogo_zh.gif 1 -
+/Admin/Login.aspx 1 -
+/fckeditor.js 1 -
+/Images/login/biaoti.jpg 1 -
+/index.php 5 -
+/ckeditor/ckfinder/install.txt 1 -
+/admin/start/index.php 1 -
+/License.txt 1 -
+/404.jpg 1 -
+/auth/login 1 -
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/themes/default/default.css 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/main/wp-includes/wlwmanifest.xml 1 -
+/news/wp-includes/wlwmanifest.xml 2 -
+/readme.html 1 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/ckfinder/install.txt 1 -
+/ckfinder/ckfinder.html 1 -
+/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/admin/inc/xml.xslt 1 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/.env 6 -
+/backup/wp-includes/wlwmanifest.xml 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/jcms/index_jcms.jsp 1 -
+/fckeditor/license.txt 1 -
+/system/skins/default/system.login.htm 1 -
+/admin/login.php 1 -
+/stylesheet.css 1 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+/FCK/fckeditor.js 1 -
+/license.txt 1 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/images/login/eyoumail.gif 1 -
+/console/js/CTRSRequestParam.js 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/uc_server/control/admin/db.php 1 -
+/app/login.jsp 1 -
+/fckeditor/fckconfig.js 1 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/tmp/ 1 -
+/Help 1 -
+/ids/admin/login.jsp 1 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/Ntalker/lawfirm.aspx 1 -
+/examples/file-manager.html 1 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/public/js/ipb.js 1 -
+/whir_system/module/security/login.aspx 1 -
+/m 1 -
+/home/ 1 -
+/public/about.html 1 -
+/changelog.txt 1 -
+/login/Jeecms.do 1 -
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/themes/graphics/horde-power1.png 1 -
+/Search.html 1 -
+/website/wp-includes/wlwmanifest.xml 2 -
+/business/images/index-gg1.jpg 1 -
+/images/login_Name.jpg 1 -
+/was5/web/index.jsp 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/cms/ 1 -
+/fckeditor/fckeditor.js 1 -
+/history.txt 1 -
+/customdir/images/english_logo.jpg 1 -
+/editor/fckeditor.js 1 -
+/2017/wp-includes/wlwmanifest.xml 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/v1/wp-includes/wlwmanifest.xml 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/max-templates/classic/styles/app.css 1 -
+/script/login.js 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/bencandy.php 1 -
+/jcms/index.jsp 1 -
+/api/api_user.xml 1 -
+/kindeditor.js 1 -
+/blog/ 2 -
+/Install/logo.gif 1 -
+/app/images/login/logo.png 1 -
+/images/zh-CN/logo.ico 1 -
+/ckeditor/ckeditor.js 1 -
+/1/wp-includes/wlwmanifest.xml 1 -
+/static/hgicon.png 1 -
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/images/logo-white.png 1 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/images/logo_88x31.gif 1 -
+/install 1 -
+/static/images/logo/webserver_small.gif 1 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/app/home/skins/default/style.css 1 -
+/2015/wp-includes/wlwmanifest.xml 1 -
+/media/com_hikashop/js/hikashop.js 1 -
+/Images/login/lefttu.jpg 1 -
+/images/logo_product-cml.png 1 -
+/images/login/logo.gif 1 -
+/cms/wp-includes/wlwmanifest.xml 3 -
+/forum.php 1 -
+/Admin/Common/HelpLinks.xml 1 -
+/images/default/post_bt.gif 1 -
+/dev/ 1 -
+/next/img/logo.gif 1 -
+/forums/list.page 1 -
+/rss.php 1 -
+/plus/sitemap.html 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/console/include/not_login.htm 1 -
+/sitemap.xml 2 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/common/common.js 1 -
+/siteserver/upgrade/default.aspx 1 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/old/wp-includes/wlwmanifest.xml 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/plus/rssmap.html 1 -
+/info.php 2 -
+/wp-cron.php 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/User/Login.aspx 1 -
+/data/admin/ver.txt 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/template/home.htm 1 -
+/advfile/ad12.js 1 -
+/cgi/index.cgi 1 -
+/help/en/h_authenticate.html 1 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/2016/wp-includes/wlwmanifest.xml 1 -
+/system/Update.aspx 1 -
+/user/wp-login.php 1 -
+/siteserver/login.aspx 1 -
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/web/wp-includes/wlwmanifest.xml 2 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/phpmyadmin/docs.css 1 -
+/main/ 1 -
+/Wq_StranJF.js 1 -
+/default/images/logo.gif 1 -
+/site/wp-includes/wlwmanifest.xml 3 -
+/digg.php 1 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/ads.txt 1 -
+/wordpress/wp-config.php.backup 2 -
+/wordpress/wp-includes/wlwmanifest.xml 3 -
+/rss.aspx 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/kill.php 1 -
+//wp-login.php 2 http://www.google.com.hk
+/staging/wp-includes/wlwmanifest.xml 2 -
+/inc/rsd.php 1 -
+/wp-login.php 7 -
+/administrator/manifests/files/joomla.xml 1 -
+//xmlrpc.php 3 http://www.google.com.hk
+/www/wp-includes/wlwmanifest.xml 1 -
+/tools/rss.aspx 1 -
+/plus/download.php 1 -
+/inc/playerKinds.xml 1 -
+/list.php 1 -
+/.git/config 6 -
+/admin 2 -
+/imagesschool/style1/flash2.jpg 1 -
+/admin/admin_login.php 1 -
+/issmall/ 1 -
+/Include/EcsServerApi.js 1 -
+/system/Login.aspx 1 -
+/dialog/dialog.js 1 -
+/was/help.jsp 1 -
+/themes/default/graphics/horde-power1.png 1 -
+/CHANGELOG.txt 1 -
+/store/wp-includes/wlwmanifest.xml 1 -
+/Editor.js 1 -
+/feed.asp 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/was/main.html 1 -
+/images/login9/login_33.jpg 1 -
+/new/wp-includes/wlwmanifest.xml 1 -
+/licence.txt 1 -
+/ymail/images/index_r1_c4.jpg 1 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+/style/default/hdwiki.css 1 -
+/xmlrpc.php 2 -
+/app/images/login/toplogo.gif 1 -
+/images/2_11.gif 1 -
+/default/css/em_css.css 1 -
+/plugin.php 1 -
+/whir_system/login.aspx 1 -
+/images/Default_bg_002.gif 1 -
+/js/buttons.js 1 -
+/archiver 1 -
+/data/images/wap_logo.gif 1 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/e/master/login.aspx 1 -
+/extman/default/images/logo.gif 1 -
+/backup/ 1 -
+/docs.css 1 -
+/blog/wp-includes/wlwmanifest.xml 3 -
+/coremail/common/help/images/helplogo.gif 1 -
+/phpmyadmin/ 2 -
+/archiver/ 1 -
+/new_gb/help/images/usage/3.3.gif 1 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/common/help/images/helplogo.gif 1 -
+/plug/publish 1 -
+/temp/ 1 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/forum/ 1 -
+/plus/heightsearch.php 1 -
+/forum/user/1/ 1 -
+/system/language/zh-cn.xml 1 -
+/wcm/ 1 -
+/js/ajax_x.js 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/console/js/CWCMDialogHead.js 1 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/lang/en.js 1 -
+/kindeditor-min.js 1 -
+/wp-includes/wlwmanifest.xml 3 -
+/include/install_ocx.aspx 1 -
+/inc/Templates/rss.xslt 1 -
+/docs/DOCUMENTATION.txt 1 -
+/weblog/ 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/wp/wp-includes/wlwmanifest.xml 4 -
+/test/wp-includes/wlwmanifest.xml 2 -
+/plugins/anchor/anchor.js 1 -
+/admin/template/article_more/config.htm 1 -
+/test/ 1 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/master/login.aspx 1 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/Images/login/mainlogo.gif 1 -
+/base/login/login.php 1 -
+/admin.php 2 -
+/blogs/wp-includes/wlwmanifest.xml 1 -
+/logo/logo_jw.png 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+//admin/images/cal_date_over.gif 1 http://www.google.com.hk
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/README.txt 1 -
+/member/space/company/info.txt 1 -
+/admin/login.asp 1 -
+/wp2/wp-includes/wlwmanifest.xml 2 -
+/img/pic/login/top-left.jpg 1 -
+/images/login/icon-up.gif 1 -
+/images/branding/logo.gif 1 -
+/examples/index.html 1 -
+/include/dedeajax2.js 1 -
+/asp.net/README.txt 1 -
+/en/wp-includes/wlwmanifest.xml 1 -
+/images/hwem.css 1 -
+/nobody/mobile.htm 1 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/Error.aspx 1 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/include/dialog/config.php 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/console/auth/reg_newuser.jsp 1 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/demo/wp-includes/wlwmanifest.xml 1 -
+/new/ 1 -
+/bbs/ 1 -
+/old/ 1 -
+/maintlogin.jsp 1 -
+/index.cgi 1 -
+/robots.txt 117 -
+/doku.php 1 -
+/2018/wp-includes/wlwmanifest.xml 2 -
+/wp/wp-login.php 1 -
+/beta/wp-includes/wlwmanifest.xml 3 -
+/wp/ 1 -
+/wordpress/ 1 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/demo/ 1 -
+/ks_inc/ajax.js 1 -
+/eams/static/scripts/grade/course/input.js 1 -
+/script/valid_formdata.js 1 -
+/admin/ 4 -
+/admin/index.php 1 -
+/docs/ 1 -
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/admin/js/IdSUtil.js 1 -
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 134
+60.191.38.77 23 23 63779 20190729071637
+52.165.148.51 22 22 61006 20190707102930
+40.86.103.136 21 21 58233 20190726090232
+40.86.96.40 20 20 55460 20190726043127
+52.173.241.248 16 16 44368 20190707143546
+40.86.101.33 14 14 38822 20190726133306
+40.86.100.91 6 6 16638 20190723094009
+137.226.113.26 6 6 16638 20190719222726
+137.226.113.34 5 20 101995 20190726214235
+138.246.253.5 5 5 0 20190731094104
+137.226.113.27 4 4 11092 20190727001157
+137.226.113.28 4 4 11092 20190719234008
+37.187.152.179 4 4 11092 20190721075018
+125.64.94.221 3 3 8319 20190713151609
+158.69.116.77 3 3 8319 20190721224334
+5.9.17.118 2 2 5546 20190731140434
+80.242.34.105 2 7 23933 20190713141946
+211.56.145.140 2 4 8122 20190726161749
+116.203.28.227 2 2 5546 20190718061033
+181.129.193.227 2 2 5546 20190718213111
+23.228.90.98 2 2 5546 20190720071423
+178.137.80.111 2 2 5546 20190719214656
+88.198.90.9 2 2 5546 20190717051232
+185.217.0.138 2 2 5546 20190714042736
+190.37.216.220 2 2 5546 20190731181949
+49.151.168.197 1 6 21160 20190712071632
+199.30.228.135 0 1 108 
+178.171.5.117 1 1 2773 20190703213126
+142.93.78.242 1 1 2773 20190716074746
+34.219.177.213 1 1 2773 20190704054803
+185.38.148.144 1 1 2773 20190709005416
+54.36.91.25 1 1 2773 20190705022425
+54.190.95.190 1 1 2773 20190708042458
+3.214.21.251 1 1 2773 20190702202940
+34.77.127.244 1 1 2773 20190702071620
+35.162.7.2 1 1 2773 20190719025110
+34.213.216.50 1 1 2773 20190705041529
+54.202.251.153 1 1 2773 20190714015046
+34.221.252.54 1 1 2773 20190717023343
+34.77.203.0 1 1 2773 20190702150929
+54.70.110.125 1 1 2773 20190727023320
+54.166.164.237 1 1 2773 20190718153539
+184.154.189.90 1 1 2773 20190703215740
+34.221.74.52 1 1 2773 20190702162556
+35.222.99.189 1 1 2773 20190704162605
+34.219.84.56 1 1 2773 20190729112548
+176.31.101.204 1 1 2773 20190710190807
+158.46.165.72 1 1 2773 20190717191647
+191.96.24.240 1 1 2773 20190724235613
+113.35.251.98 1 1 2773 20190705073020
+91.79.6.76 1 1 2773 20190719183430
+159.203.42.143 1 1 2773 20190720051408
+18.237.24.44 1 1 2773 20190711004931
+5.9.106.81 1 1 2773 20190709225622
+35.162.114.115 1 1 2773 20190706032543
+54.148.175.142 1 1 2773 20190726070646
+54.186.224.149 1 1 2773 20190701050019
+104.140.4.152 1 1 2773 20190717023949
+100.35.75.170 1 1 2773 20190718095717
+107.6.171.130 1 1 2773 20190715194845
+34.217.177.119 1 1 2773 20190726012750
+54.149.159.2 1 1 2773 20190707042436
+34.219.4.63 1 1 2773 20190715014243
+104.155.52.173 1 1 2773 20190701140525
+35.165.10.154 1 1 2773 20190703034303
+52.26.122.117 1 1 2773 20190731035340
+71.6.165.200 1 1 2773 20190702212955
+54.179.166.102 1 1 2773 20190718104454
+18.236.157.149 1 1 2773 20190708053652
+136.243.17.161 1 1 2773 20190711054323
+34.208.221.185 1 1 2773 20190715033221
+185.251.38.140 1 1 2773 20190728153551
+144.76.168.111 1 1 2773 20190709225623
+118.174.220.166 1 1 2773 20190722162805
+89.147.68.209 1 1 2773 20190722031746
+18.236.107.241 1 1 2773 20190726012752
+178.62.74.6 1 1 2773 20190727221435
+54.202.12.210 1 1 2773 20190710041325
+3.218.152.228 1 1 2773 20190715044710
+54.203.111.193 1 1 2773 20190719190209
+34.209.110.211 1 1 2773 20190721022941
+66.249.91.235 1 1 2773 20190706001638
+206.180.165.147 1 1 2773 20190702085155
+35.203.252.114 1 1 2773 20190718141315
+123.245.27.13 1 1 2773 20190722092151
+54.188.129.1 1 1 2773 20190701232502
+54.212.139.17 2 2 5546 20190701055918
+34.219.50.144 1 1 2773 20190706032509
+82.80.249.243 1 1 2773 20190720112636
+144.76.162.206 2 2 5546 20190729210240
+192.161.53.153 1 1 2773 20190722131004
+78.85.168.36 1 1 2773 20190730233428
+107.6.169.250 1 1 2773 20190724171643
+52.42.230.94 1 1 2773 20190729034248
+34.213.224.222 1 1 2773 20190722025216
+34.222.229.110 1 1 2773 20190709051804
+3.87.95.247 1 1 2773 20190729012429
+172.98.184.229 2 2 5546 20190722131007
+54.185.227.122 1 1 2773 20190729034303
+54.212.232.249 1 1 2773 20190712041631
+199.30.228.134 0 2 17332 
+100.26.121.80 1 1 2773 20190715045102
+199.30.228.129 1 3 3720 20190727203815
+67.182.25.250 1 6 21160 20190701002723
+34.220.174.208 1 1 2773 20190703053636
+81.177.157.252 1 1 2773 20190723184542
+34.217.131.108 1 1 2773 20190722025257
+34.221.236.197 1 1 2773 20190713024226
+64.246.161.30 1 1 2773 20190728192014
+178.128.225.195 1 1 0 20190727185415
+5.9.145.132 2 2 5546 20190731140434
+34.76.61.3 1 1 2773 20190702174300
+107.6.183.162 1 1 2773 20190711080328
+154.66.217.26 2 2 5546 20190729200915
+64.246.165.50 1 1 2773 20190706191644
+34.223.252.69 1 1 2773 20190709054151
+35.165.189.26 1 1 2773 20190717023349
+54.191.128.126 1 1 2773 20190712155059
+172.93.101.199 1 1 2773 20190722131005
+67.227.101.221 1 1 2773 20190710210257
+51.68.152.26 2 2 5546 20190728150256
+54.184.69.208 1 1 2773 20190721023022
+5.83.163.132 1 1 2773 20190724032336
+52.11.160.54 1 1 2773 20190724035929
+212.92.108.54 1 1 2773 20190706111925
+148.251.237.246 1 1 2773 20190725225442
+89.22.101.69 1 1 2773 20190712093927
+59.56.241.218 1 1 2773 20190712001445
+18.236.87.172 1 1 2773 20190702044200
+88.99.27.172 1 1 2773 20190729210240
+92.118.209.129 1 1 2773 20190701020636
+54.186.213.167 1 1 2773 20190716005624
+212.180.208.122 1 1 2773 20190712160148
+107.178.231.227 1 1 2773 20190704160630
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190701 13 18 54436 11
+20190702 8 8 22184 8
+20190703 5 5 13865 5
+20190704 7 10 34264 6
+20190705 12 12 33276 9
+20190706 30 31 84478 17
+20190707 9 9 24957 8
+20190708 2 2 5546 2
+20190709 5 5 13865 5
+20190710 9 12 39810 8
+20190711 12 12 33276 11
+20190712 15 20 59982 15
+20190713 11 16 48890 8
+20190714 5 8 31491 4
+20190715 5 5 13865 5
+20190716 3 3 8319 3
+20190717 14 14 36049 13
+20190718 13 13 36049 11
+20190719 13 13 36049 12
+20190720 12 15 50902 11
+20190721 14 14 38822 9
+20190722 16 16 44368 15
+20190723 7 7 19411 6
+20190724 5 5 11092 5
+20190725 5 5 13865 5
+20190726 13 17 54963 11
+20190727 5 10 29479 5
+20190728 3 3 8319 3
+20190729 11 11 30503 10
+20190730 1 1 2773 1
+20190731 6 6 13865 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+2mn-5mn 2
+30mn-1h 5
+30s-2mn 2
+15mn-30mn 4
+5mn-15mn 1
+0s-30s 228
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 289 784759 247 247
+END_SIDER

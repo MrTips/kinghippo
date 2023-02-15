@@ -1,0 +1,434 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201005 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2520                
+POS_VISITOR 9546                
+POS_DAY 11041               
+POS_DOMAIN 3230                
+POS_LOGIN 3537                
+POS_ROBOT 3692                
+POS_WORMS 4121                
+POS_EMAILSENDER 4252                
+POS_EMAILRECEIVER 4395                
+POS_SESSION 11761               
+POS_SIDER 11956               
+POS_FILETYPES 4530                
+POS_OS 4666                
+POS_BROWSER 4816                
+POS_SCREENSIZE 5070                
+POS_UNKNOWNREFERER 5144                
+POS_UNKNOWNREFERERBROWSER 5528                
+POS_ORIGIN 5796                
+POS_SEREFERRALS 5935                
+POS_PAGEREFS 6079                
+POS_SEARCHWORDS 6760                
+POS_KEYWORDS 6912                
+POS_MISC 2184                
+POS_ERRORS 6971                
+POS_CLUSTER 3393                
+POS_SIDER_404 7070                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100601013227 1 0 39255534487
+FirstTime 0
+LastTime 20100530183421
+LastUpdate 20100601074831 1 0 0 0 0
+TotalVisits 93                  
+TotalUnique 34                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 5150 7 8 26868
+1 2 7 63867 7 8 30724
+2 1 1 2575 2 2 7078
+3 1 1 2575 3 3 11581
+4 3 3 7725 3 3 11581
+5 7 11 131675 43 43 193629
+6 2 2 5150 0 0 0
+7 35 35 1267741 0 0 0
+8 154 154 5577257 22 22 88779
+9 121 123 5497274 7 7 27665
+10 237 238 12193977 3 3 9006
+11 99 99 4804368 2 2 7078
+12 90 100 3237025 6 7 27146
+13 103 103 4111813 8 9 84362
+14 91 91 3047927 6 6 23162
+15 120 120 4490891 2 2 7078
+16 57 57 1214332 3 3 11581
+17 4 4 10300 7 8 26868
+18 2 2 5150 0 0 0
+19 2 2 5150 3 3 9653
+20 7 13 133937 57 61 214280
+21 61 61 1098176 2 2 7078
+22 2 2 5150 3 3 11581
+23 2 2 5150 4 4 11581
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 1191 1214 46829568
+ru 8 8 20600
+ua 2 2 5150
+fi 1 6 61292
+br 1 1 2575
+at 1 1 2575
+ca 1 1 2575
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[+:,\.\;\/\\-] 10 75981 20100527143147 0
+jeeves 9 23175 20100530094551 0
+googlebot 6 12875 20100528192110 0
+slurp 6 11118 20100523010026 0
+crawl 5 64550 20100531195640 0
+msnbot 2 0 20100527130347 0
+robot 2 2575 20100526235537 0
+ia_archiver 1 2575 20100515212433 0
+voila 1 2575 20100501174736 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 6 6786 0 0
+html 76 195700 0 0
+js 16 454600 0 0
+xml 1129 46264966 0 0
+gif 6 2283 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 11
+winxp 1158
+winlong 7
+win2000 1
+win98 1
+linuxfedora 2
+winme 2
+win16 6
+macosx 38
+win2003 2
+Unknown 10
+win2008 6
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 16
+msie6.0 57
+msie8.0 15
+firefox3.5.5 1
+mozilla 3
+firefox3.6 20
+chrome 5
+msie7.0 113
+libwww 2
+firefox3.5.9 6
+firefox3.6.3 971
+firefox2.0.0.6 1
+msie5.5 1
+Unknown 11
+firefox3.5.3 2
+safari 23
+firefox2.0.0.7 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+url_test_larbin2.6.3@unspecified.mail 20100518002517
+libwww-perl/5.808 20100525201704
+MLBot_(www.metadatalabs.com/mlbot) 20100503140106
+panscient.com 20100507052148
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20100529050013
+libwww-perl/5.834 20100517103716
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+url_test_larbin2.6.3@unspecified.mail 20100518002517
+Yandex/1.01.001_(compatible;_Win16;_I) 20100528090853
+MLBot_(www.metadatalabs.com/mlbot) 20100503140106
+panscient.com 20100507052148
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1116 1120
+From1 1 1
+From2 0 0
+From3 82 82
+From4 6 30
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://design.ny.pch.com/Creative_Dept/Projects_10/PCH_com/Homepage_2010/dev/HP/assets/flXHR.swf 52 52
+http://a1708.g.akamai.net/7/1708/5303/1320678552/image.pch.com/emailimages/cat/10/56-01/flXHR.swf 10 10
+http://design.ny.pch.com/Creative_Dept/Projects_10/PCH_com/Homepage_2010/dev/Coupons/flXHR-1.0.5/flensed-1.0/deploy/flXHR.swf 8 8
+http://design.ny.pch.com/Creative_Dept/Projects_10/PCH_com/Homepage_2010/dev/HP/index.html 8 8
+http://a1708.g.akamai.net/7/1708/5303/415135161/image.pch.com/emailimages/cat/10/56-01/flXHR.swf 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+405 22 0
+404 145 652935
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 80
+/webstats/awstats.pl 1 -
+/robots.txt 63 -
+/j/administrator/index.php 1 -
+/joomla1/administrator/index.php 1 -
+/*/* 2 -
+/joomla15/administrator/index.php 1 -
+/cp/awstats/awstats.pl 1 -
+/wordpress/wp-login.php 1 -
+/stats/awstats.pl 1 -
+/m/ 1 -
+/cms_old/administrator/index.php 1 -
+/scripts/text/javascript 1 -
+/wordpress2/wp-login.php 1 -
+/cgi-bin/awstats.pl 1 -
+/system-cgi/awstats.pl 1 -
+/main/administrator/index.php 1 -
+/blog-old/wp-login.php 1 -
+/web/administrator/index.php 1 -
+/scripts/*/* 1 -
+/mobile/ 1 -
+/cms/wp-login.php 1 -
+/CMS/administrator/index.php 1 -
+/home/administrator/index.php 1 -
+/statistic/awstats.pl 1 -
+/text/plain 2 -
+/stats/cgi-bin/awstats.pl 1 -
+/site/administrator/index.php 1 -
+/blog/wp-login.php 1 -
+/scripts/text/plain 1 -
+/mobi/ 1 -
+/awstats/awstats.pl 1 -
+/default.php 1 -
+/joomla/administrator/index.php 1 -
+/awstats/cgi-bin/awstats.pl 1 -
+/wp-login.php 1 -
+/text/html 2 -
+/awstats6/awstats.pl 1 -
+/Site/administrator/index.php 1 -
+/joom/administrator/index.php 1 -
+/stat/awstats.pl 1 -
+/logs/awstats.pl 1 -
+/blog_old/wp-login.php 1 -
+/WP/wp-login.php 1 -
+/Site_old/administrator/index.php 1 -
+/text/javascript 1 -
+/apple-touch-icon.png 1 -
+/blog/backup/wp-login.php 1 -
+/cgi-bin/awstats6/6awstats.pl 1 -
+/content/administrator/index.php 1 -
+/en/administrator/index.php 1 -
+/joomla2/administrator/index.php 1 -
+/statistics/awstats.pl 1 -
+/awstats.pl 1 -
+/Joomla/administrator/index.php 1 -
+/v1/administrator/index.php 1 -
+/cgi-bin/awstat/awstats.pl 1 -
+/joomla1.5/administrator/index.php 1 -
+/v2/administrator/index.php 1 -
+/wp/wp-login.php 1 -
+/iphone/ 1 -
+/backup/administrator/index.php 1 -
+/Wordpress/wp-login.php 1 -
+/site_old/administrator/index.php 1 -
+/blog/wp/wp-login.php 1 -
+/cgi/awstats.pl 1 -
+/awstats-cgi/awstats.pl 1 -
+/portal/administrator/index.php 1 -
+/administrator/index.php 1 -
+/joomla_old/administrator/index.php 1 -
+/old/wp-login.php 1 -
+/cms/administrator/index.php 1 -
+/cgi-bin/awstats/awstats.pl 1 -
+/application/x-www-form-urlencoded 1 -
+/test/administrator/index.php 1 -
+/awstats6/cgi-bin/awstats.pl 1 -
+/index.php 1 -
+/backup/wp-login.php 1 -
+/scripts/text/html 1 -
+/home.php 1 -
+/awstat/awstats.pl 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+216.255.103.250 1129 1129 46264966 20100514121559
+208.80.193.39 10 10 25750 20100529100500
+77.88.25.26 6 6 15450 20100528090853
+208.80.193.29 5 5 12875 20100530183421
+208.80.193.34 5 5 12875 20100522002338
+208.80.193.27 5 5 12875 20100528011727
+208.80.193.35 4 4 10300 20100525050236
+208.80.193.42 4 4 10300 20100520213318
+208.80.193.30 3 3 7725 20100530111832
+174.129.145.87 3 9 123637 20100506205414
+208.80.193.36 2 2 5150 20100516200710
+69.58.178.29 2 2 5150 20100510172255
+70.36.103.59 2 4 61975 20100514223244
+91.212.226.246 2 2 5150 20100523160854
+208.80.193.38 2 2 5150 20100529025033
+208.80.193.28 2 2 5150 20100517201226
+91.203.79.82 2 2 5150 20100518190731
+71.41.201.37 1 1 2575 20100503140106
+206.183.1.74 1 3 59400 20100529050012
+74.222.3.90 1 1 2575 20100518002517
+64.12.117.72 1 1 2575 20100525011122
+67.205.85.53 1 1 2575 20100521131015
+70.33.184.37 1 3 59400 20100507052142
+208.80.193.32 1 1 2575 20100511141112
+166.137.9.143 1 6 61292 20100522125033
+64.12.117.66 0 1 382 
+84.250.141.124 1 6 61292 20100501121910
+166.137.9.151 1 1 2575 20100522124610
+69.64.155.83 1 1 2575 20100517103716
+189.38.90.54 1 1 2575 20100525201704
+64.12.116.19 0 1 1131 
+91.206.113.13 1 1 2575 20100520122545
+64.12.116.142 0 1 56697 
+64.12.116.145 0 1 379 
+72.94.249.37 1 1 2575 20100519044131
+174.129.74.98 1 1 2575 20100521172814
+208.80.193.40 1 1 2575 20100519041143
+38.100.41.105 1 2 3706 20100527105545
+64.12.117.6 0 1 128 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20100501 3 8 66442 3
+20100502 1 1 2575 1
+20100503 103 103 1222658 5
+20100504 343 343 17618784 3
+20100505 240 240 10983188 3
+20100506 186 192 7963241 5
+20100507 46 48 1456072 6
+20100508 2 2 5150 2
+20100509 2 4 61975 2
+20100510 83 83 1726859 5
+20100511 35 35 1397062 5
+20100512 42 42 1148582 4
+20100513 72 72 2916958 5
+20100514 4 4 68674 3
+20100515 2 2 5150 2
+20100516 2 2 5150 2
+20100517 2 2 5150 2
+20100518 5 5 12875 4
+20100519 3 3 7725 3
+20100520 3 3 7725 3
+20100521 2 2 5150 2
+20100522 4 9 69017 4
+20100523 5 5 12875 4
+20100524 1 1 2575 1
+20100525 3 8 66442 3
+20100526 2 2 5150 2
+20100527 2 3 6281 2
+20100528 2 2 5150 2
+20100529 3 5 64550 3
+20100530 2 2 5150 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 10
+5mn-15mn 2
+30s-2mn 1
+2mn-5mn 2
+0s-30s 74
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/xmlserve.asp.xml 766 46156992 1 18
+/crossdomain.xml 363 107974 21 4
+/ 76 195700 71 71
+END_SIDER

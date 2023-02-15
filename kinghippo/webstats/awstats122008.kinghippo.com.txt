@@ -1,0 +1,341 @@
+AWSTATS DATA FILE 6.7 (build 1.892)
+# If you remove this file, all statistics for date 200812 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2535                
+POS_VISITOR 6456                
+POS_DAY 8339                
+POS_DOMAIN 3138                
+POS_LOGIN 3405                
+POS_ROBOT 3560                
+POS_WORMS 3856                
+POS_EMAILSENDER 3987                
+POS_EMAILRECEIVER 4130                
+POS_SESSION 8992                
+POS_SIDER 9139                
+POS_FILETYPES 4265                
+POS_OS 4382                
+POS_BROWSER 4519                
+POS_SCREENSIZE 4697                
+POS_UNKNOWNREFERER 4771                
+POS_UNKNOWNREFERERBROWSER 4904                
+POS_ORIGIN 5032                
+POS_SEREFERRALS 5165                
+POS_PAGEREFS 5329                
+POS_SEARCHWORDS 5477                
+POS_KEYWORDS 5671                
+POS_MISC 2199                
+POS_ERRORS 5774                
+POS_CLUSTER 3261                
+POS_SIDER_404 5870                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20090101011916 5 739 37028840790
+FirstTime 20081201131000
+LastTime 20081231221056
+LastUpdate 20090101021613 5 0 4 0 0
+TotalVisits 73                  
+TotalUnique 40                  
+MonthHostsKnown 13                  
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 3 2600
+1 0 0 0 9 9 7800
+2 2 7 63808 3 3 2600
+3 4 4 10400 3 3 2600
+4 0 0 0 0 0 0
+5 4 14 127616 2 2 5200
+6 1 1 2600 1 1 2600
+7 3 4 8822 0 0 0
+8 6 11 74208 3 3 2600
+9 3 3 7800 0 0 0
+10 2 2 5200 0 0 0
+11 2 5 63047 22 22 0
+12 4 4 10400 2 2 2600
+13 4 9 69008 0 0 0
+14 2 2 5200 2 2 0
+15 1 1 2600 4 4 5200
+16 3 8 66408 6 6 7800
+17 6 9 73447 9 9 13000
+18 10 10 26000 0 0 0
+19 5 15 69008 2 2 2600
+20 2 2 5200 4 4 5200
+21 1 1 2600 4 4 5200
+22 8 8 20800 2 2 0
+23 2 2 5200 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ip 57 62 206808
+us 15 57 504764
+ca 2 2 5200
+de 1 1 2600
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+voila 11 28600 20081231171345 0
+googlebot 8 18200 20081230033347 0
+msnbot 3 2600 20081215143715 0
+\wbot[\/\-] 1 2600 20081217124155 0
+robot 1 2600 20081219062322 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 11 10220 0 0
+html 75 192400 0 0
+js 20 511425 0 0
+gif 16 5327 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 10
+winlong 13
+winxp 84
+win2000 1
+win98 2
+linuxfedora 1
+linux 1
+winme 4
+macosx 6
+win2003 6
+Unknown 4
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 9
+firefox2.0.0.11 12
+msie6.0 44
+firefox1.0.7 1
+firefox2.0.0.18 6
+firefox1.0 1
+firefox3.0.4 12
+msie7.0 36
+Unknown 4
+firefox3.0.5 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+- 20081223084504
+panscient.com 20081227110917
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+- 20081223084504
+panscient.com 20081227110917
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 70 73
+From1 1 1
+From2 3 3
+From3 0 0
+From4 1 45
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+live 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+javascript 1
+king+hippo 1
+kinghippo.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+hippo 1
+king 1
+javascript 1
+kinghippo.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 5 13000
+404 52 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 12
+/text/plain 2 -
+/robots.txt 32 -
+/text/javascript 2 -
+/application/x-www-form-urlencoded 2 -
+/scripts/text/plain 2 -
+/scripts/*/* 2 -
+/scripts/text/javascript 1 -
+/scripts/application/x-www-form-urlencoded 2 -
+/scripts/text/html 2 -
+/*/* 2 -
+/image1234.php 1 -
+/text/html 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 40
+208.80.194.46 9 9 23400 20081231185604
+208.80.194.45 6 6 15600 20081227220146
+208.80.194.37 6 6 15600 20081231083541
+208.80.194.48 4 4 10400 20081221220920
+208.80.194.54 4 4 10400 20081219215707
+208.80.194.36 3 3 7800 20081225180659
+208.80.194.26 3 3 7800 20081210124808
+208.80.194.49 2 2 5200 20081216165021
+208.80.194.44 2 2 5200 20081230184034
+208.80.194.47 2 2 5200 20081223224208
+75-134-118-154.dhcp.aldl.mi.charter.com 2 12 61208 20081219190255
+ool-4570ac5b.dyn.optonline.net 2 12 122416 20081210051001
+208.80.194.38 2 2 5200 20081209230137
+bas5-kitchener06-1096664312.dsl.bell.ca 2 2 5200 20081226095324
+208.80.194.31 1 1 2600 20081203053822
+92.f5.344a.static.theplanet.com 1 1 2600 20081216120855
+79.111.80.24 1 1 2600 20081214181113
+static-71-180-98-66.tampfl.dsl-w.verizon.net 1 6 61208 20081204131053
+208.80.194.53 1 1 2600 20081229224751
+c-24-5-178-224.hsd1.ca.comcast.net 1 6 61208 20081214024824
+65.55.109.62 1 4 60447 20081202173218
+208.80.194.30 1 1 2600 20081206101915
+208.80.194.52 1 1 2600 20081222202201
+cpe-67-242-197-155.nycap.res.rr.com 1 6 61208 20081203162243
+208.80.194.29 1 1 2600 20081204120356
+208.80.194.35 1 1 2600 20081226085100
+208.94.243.130 1 1 2600 20081203051954
+38.105.83.11 1 2 3622 20081220074110
+208.80.194.40 1 1 2600 20081222104440
+85-211-65-228.dyn.gotadsl.co.uk 1 1 2600 20081207190351
+208.80.194.55 1 1 2600 20081228182843
+208.80.194.33 1 1 2600 20081211033218
+host24-206-dynamic.11-79-r.retail.telecomitalia.it 1 2 3622 20081230112305
+. 1 1 2600 20081223084504
+ips-crawl5.colo-fo.ilg1.verisign.com 1 1 2600 20081203175551
+212.95.54.42.internetserviceteam.com 1 1 2600 20081231221056
+208.80.194.50 1 1 2600 20081229183034
+38.100.8.51 1 3 59425 20081227110902
+pool-173-48-26-55.bstnma.fios.verizon.net 1 6 61208 20081230083323
+208.80.194.42 1 1 2600 20081223181643
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20081201 2 2 5200 2
+20081202 3 11 124255 3
+20081203 5 10 71608 5
+20081204 2 7 63808 2
+20081205 2 2 5200 2
+20081206 2 2 5200 2
+20081207 3 3 7800 3
+20081208 1 1 2600 1
+20081209 2 2 5200 2
+20081210 2 7 63808 2
+20081211 3 3 7800 3
+20081213 1 1 2600 1
+20081214 5 10 71608 5
+20081215 1 1 2600 1
+20081216 4 4 10400 4
+20081218 2 2 5200 2
+20081219 4 14 66408 3
+20081220 3 4 8822 3
+20081221 1 1 2600 1
+20081222 2 2 5200 2
+20081223 4 4 10400 4
+20081224 1 1 2600 1
+20081225 2 2 5200 2
+20081226 5 5 13000 4
+20081227 3 5 64625 3
+20081228 1 1 2600 1
+20081229 3 3 7800 3
+20081230 3 9 67430 3
+20081231 3 3 7800 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 73
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 75 192400 73 73
+END_SIDER
