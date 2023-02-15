@@ -1,101 +1,19 @@
-@import url("http://yui.yahooapis.com/2.6.0/build/reset/reset-min.css");
+/*
+Kinghippo CSS
+soley written by Mark McCartney
+*/
 
-strong{
-	font-weight: bold;	
-}
+@import url(normalize.css);
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
 
-html{
-	background: #fff;
-}
+body {
+  background-color: rgba(0, 0, 0, 1);
 
-body{
-	background: #fff;
-	color: #333;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 12pt;
+  font-family: "Roboto", sans-serif;
+  margin: 5%;
 }
 
-a{
-	color: #63F;
-}
-
-a:hover{
-	color: #F00;	
-	text-decoration: underline;
-}
-
-#menu{
-	display: none;
-	overflow: hidden;
-	padding: 0 10px;
-	background: #000;
-}
-
-#menu li{
-	float: left;
-	margin: 0 15px;
-	text-align: center;
-	padding: 10px 0;
-}
-
-#menu li a{
-	color: #fff;
-	text-decoration: none;
-}
-#menu li a:hover{
-	color: #eee;
-	text-decoration: underline;
-}
-
-#menu li a.currLink{
-	font-weight: bold;
-}
-#menu li a.currLink:hover{
-	text-decoration: none;
-}
-
-#wrap{
-	background: #fff url(../images/braceTop.gif) 0 5px no-repeat;
-	width: 940px;
-	margin: 10px auto;
-	padding: 25px 0 10px 40px;
-}
-#subWrap{
-	background: #fff url(../images/braceBottom.gif) bottom right no-repeat;
-	margin: 0 auto;
-	padding: 0 40px 25px 0;
-}
-
-#wrap h1{
-	font-size: 1.5em;
-	font-weight: bold;
-	margin: 0 0 3px;
-}
-
-#wrap h2{
-	font-size: 1.1em;
-	font-weight: bold;
-	margin: 0 0 10px;	
-}
-
-#content{
-	margin: 55px 0 0;	
-}
-
-#wrap p{
-	margin: 10px 0;	
-}
-
-#skills{
-	margin: 10px 20px;
-}
-
-#skills li{
-	list-style: inside disc;	
-	padding: 5px;	
-}
-
-
-#seo{
-	visibility: hidden;
+body,
+a {
+  color: rgba(255, 255, 255, 1);
 }

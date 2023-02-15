@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
-<cross-domain-policy>   
-   <allow-http-request-headers-from domain="*.pch.com" headers="*" />
-   <allow-http-request-headers-from domain="a1708.g.akamai.net" headers="*" />   
-   <allow-access-from domain="*.pch.com"/>
-   <allow-access-from domain="*.*.pch.com"/>  
-   <allow-access-from domain="a1708.g.akamai.net"/>   
-</cross-domain-policy>
