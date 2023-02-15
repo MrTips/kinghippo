@@ -1,3 +1,3 @@
 //Kinghippo JS
 //soley written by Mark McCartney
-import "normalize.css";
+console.log("JS to come");
