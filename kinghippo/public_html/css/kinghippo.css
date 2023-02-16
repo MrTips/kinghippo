@@ -7,12 +7,72 @@ soley written by Mark McCartney
 
 body {
   background-color: rgba(0, 0, 0, 1);
-
   font-family: "Roboto", sans-serif;
-  margin: 5%;
 }
 
 body,
 a {
-  color: rgba(255, 255, 255, 1);
+  color: rgba(255, 255, 255, 0.9);
+}
+
+a {
+  cursor: pointer;
+}
+
+a:hover {
+  color: rgba(255, 0, 187, 1);
+}
+
+body > div {
+  margin: 5%;
+}
+
+.image-container {
+  overflow: hidden;
+  min-height: 301px;
+  border-bottom: 10px solid rgba(255, 255, 255, 0.9);
+}
+
+img.my-pic {
+  position: relative;
+  left: -300px;
+  bottom: -301px;
+  display: block; /* to get rid of any margin/padding that comes along with an img*/
+}
+
+footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+footer li {
+  padding: 5px;
+  text-align: center;
+}
+
+.icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%; /*circle*/
+  background-image: url(../images/icons.png);
+  margin: 10px;
+}
+
+/*linkedin*/
+footer li:nth-of-type(1) .icon {
+  background-position: -320px -608px;
+}
+
+/*twitter*/
+footer li:nth-of-type(2) .icon {
+  background-position: -704px -1088px;
+}
+
+/*github*/
+footer li:nth-of-type(3) .icon {
+  background-position: -895px -418px;
 }
