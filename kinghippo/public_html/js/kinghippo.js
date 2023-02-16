@@ -1,5 +1,10 @@
 //Kinghippo JS
-//soley written by Mark McCartney
-
-var tl = gsap.timeline({ delay: 1 });
-tl.to(".my-pic", { x: 300, y: -301, duration: 2 });
+//solely written by Mark McCartney
+/* global gsap */
+let tl = gsap.timeline({
+  scrollTrigger: {
+    trigger: "footer",
+    start: "center bottom",
+  },
+});
+tl.to(".my-pic", { x: 300, y: -301, duration: 1 });

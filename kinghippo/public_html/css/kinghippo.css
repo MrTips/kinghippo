@@ -1,6 +1,6 @@
 /*
 Kinghippo CSS
-soley written by Mark McCartney
+solely written by Mark McCartney
 */
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
@@ -27,6 +27,21 @@ body > div {
   margin: 5%;
 }
 
+h1 {
+  font-weight: 900; /* roboto black */
+}
+
+dt {
+  font-weight: 700;
+  margin: 0 0 1%;
+  font-size: 1.1em;
+}
+
+dd {
+  margin: 0 0 2%;
+  padding: 0;
+}
+
 .image-container {
   overflow: hidden;
   min-height: 301px;
@@ -40,6 +55,10 @@ img.my-pic {
   display: block; /* to get rid of any margin/padding that comes along with an img*/
 }
 
+footer {
+  padding-bottom: 3%;
+}
+
 footer ul {
   list-style: none;
   display: flex;
@@ -50,7 +69,7 @@ footer ul {
 }
 
 footer li {
-  padding: 5px;
+  padding: 2%;
   text-align: center;
 }
 
