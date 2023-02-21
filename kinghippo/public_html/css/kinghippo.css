@@ -24,7 +24,8 @@ a:hover {
 }
 
 body > div {
-  margin: 5%;
+  margin: 3% 5%;
+  max-width: 800px;
 }
 
 h1 {
@@ -69,7 +70,7 @@ footer ul {
 }
 
 footer li {
-  padding: 2%;
+  padding: 5px;
   text-align: center;
 }
 
